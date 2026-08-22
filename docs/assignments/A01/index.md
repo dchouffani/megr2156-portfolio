@@ -84,6 +84,16 @@ One design decision the original engineer made was to arrange the blades radiall
 
 ## Decide
 
+1. Homepage Identity:
+
+My homepage will contain projects, design processes that explain what, how, and why, CAD drawings and schematics, skills that show what I aim to work on in the future, prototypes, images, results, purposes, and calculations. Projects will be organized individually so that when a visitor clicks on a project title, they can see the images, CAD drawings, prototypes, purpose, design process, schematics, calculations, results, improvements made to the design, and how I reached the final product. The standard my portfolio will hold itself to is that it will be organized and detailed enough for another reader to reproduce my work without having to ask questions, with design decisions justified through clear engineering reasoning. These content and organization decisions will allow readers to easily locate my work, understand the purpose of each project, and follow the engineering process that led to the final design.
+
+2. Intentional Customization:
+
+
+
+
+ 
 
 ## Communicate
 
