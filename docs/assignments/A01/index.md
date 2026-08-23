@@ -50,27 +50,27 @@ The language of this portfolio meets the standard of a document I would hand to 
 
 ### Task B - Product Analysis: Apple Wedger
 
-**Primary Function:**
+**A. Primary Function:**
 
 The primary function of the apple wedger is to manually apply a downward force through 8 radial blades and a coring blade to separate 8 apple wedges and its core. 
 
-**Governing Model:**
+**B. Governing Model:**
 
 **i. Model and Variables**
 
-σ=F/A
+σ = F/A
 
-σ= cutting stress on apple
+σ = cutting stress on apple
 
-F= downward applied force
+F = downward applied force
 
-A= contact area between blades and apple
+A = contact area between blades and apple
 
 **ii. Assumption**
 
 One assumption that makes the model valid for this product is that the downward force that the user applies is evenly distributed across the blades and corer.
 
-**Geometry:**
+**C. Geometry:**
 
 <img width="4284" height="5712" alt="IMG_9065" src="https://github.com/user-attachments/assets/fb059b7e-582b-4659-85ee-3814e3686398" />
 
@@ -80,7 +80,7 @@ The 8 metal blades radially surround the center corer. The radial geometry divid
 
 The plastic oval frame provides a large area for the user to apply a downward force using both hands. The frame is connected to the outside of the blades, transferring the force into the blades from both sides and helping keep the cutter level as it moves down through the apple.
 
-**Patent Research:**
+**D. Patent Research:**
 
 Patent: EP2632666B1 — Apple Wedger
 
@@ -88,10 +88,10 @@ Author: Lawrence Michael Hauser
 
 **i. Alternative Solutions**
 
-Alternative 1 - Knife:
+**Alternative 1 - Knife:**
 A knife can cut the apple into wedges and remove the core through multiple individual cuts, which serves the same function as the apple wedger but uses a different mechanical approach.
 
-Alternative 2 - Apple Hacker with Pull Down Handle
+**Alternative 2 - Apple Hacker with Pull Down Handle:**
 A cast aluminum framed countertop apple hacker with suction feet and a pull down handle cores and wedges an apple by using a lever mechanism to force the apple through the stationary cutter and corer. The lever reduces the input force needed from the user compared to a handheld apple wedger.
 
 **ii. Design decision**
