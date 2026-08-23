@@ -51,11 +51,12 @@ The language of this portfolio meets the standard of a document I would hand to 
 ### Task B - Product Analysis: Apple Wedger
 
 **Primary Function:**
+
 The primary function of the apple wedger is to manually apply a downward force through 8 radial blades and a coring blade to separate 8 apple wedges and its core. 
 
 **Governing Model:**
 
-**i. Model and Variables:**
+**i. Model and Variables**
 
 σ=F/A
 
@@ -65,7 +66,7 @@ F= downward applied force
 
 A= contact area between blades and apple
 
-**ii. Assumption:**
+**ii. Assumption**
 
 One assumption that makes the model valid for this product is that the downward force that the user applies is evenly distributed across the blades and corer.
 
@@ -85,7 +86,7 @@ Patent: EP2632666B1 — Apple Wedger
 
 Author: Lawrence Michael Hauser
 
-**i. Alternative Solutions:**
+**i. Alternative Solutions**
 
 Alternative 1 - Knife:
 A knife can cut the apple into wedges and remove the core through multiple individual cuts, which serves the same function as the apple wedger but uses a different mechanical approach.
@@ -93,7 +94,7 @@ A knife can cut the apple into wedges and remove the core through multiple indiv
 Alternative 2 - Apple Hacker with Pull Down Handle
 A cast aluminum framed countertop apple hacker with suction feet and a pull down handle cores and wedges an apple by using a lever mechanism to force the apple through the stationary cutter and corer. The lever reduces the input force needed from the user compared to a handheld apple wedger.
 
-**ii. Design decision:**
+**ii. Design decision**
 
 One design decision the original engineer made was to arrange the blades radially around a circular center blade. This design allows the apple to be divided into eight equal wedges while simultaneously removing its core.
 
