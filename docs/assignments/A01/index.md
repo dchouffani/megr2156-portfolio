@@ -90,8 +90,11 @@ My homepage will contain projects, design processes that explain what, how, and 
 
 2. Intentional Customization:
 
+I changed the color scheme from green to a blue grey. Blue grey is easier on the eyes than a bright green and gives a more professional appearance. This change meets the requirement that the technical content remain the main focus of the portfolio. The bright green draws attention away from the content, while the blue gray allows my projects and material to be the main focus.
 
+3. Documentation Standard
 
+The documentation standard I intend to meet for every assignment entry this semester is that my work will be detailed enough for a reader with no prior knowledge of the assignment to reproduce it without having to ask any questions.
 
  
 
