@@ -2,6 +2,8 @@
 
 ## Objective
 
+The objective of this assignment is to build a professional engineering portfolio by analyzing two existing portfolios and a simple mechanical product, making intentional decisions about the content, customization, and documentation standards of my portfolio, and communicating my professional identity and the type of engineer I aim to become.
+
 ## Decide
 
 **Homepage Identity:**
