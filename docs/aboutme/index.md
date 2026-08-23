@@ -8,6 +8,6 @@ Research has helped shape the engineer I am becoming. It constantly requires me 
 
 ###Defending an Engineering Decision
 
-Defending an engineering decision means analyzing alternatives, testing procedures, showing calculations, comparing predicted results to experimental results, and using that evidence to justify why, what, and how a decision was made. I do currently know how to defend an engineering decision because I have used calculations, testing, and experimental results to justify the decisions I make. However, I am still learning how to fully defend engineering decisions by improving how clearly I communicate my reasonings.
+Defending an engineering decision means analyzing alternatives, testing procedures, showing calculations, comparing predicted results to experimental results, and using that evidence to justify why, what, and how a decision was made. I do currently know how to defend an engineering decision because I have used calculations, testing, and experimental results to justify the decisions I make. However, I am still learning how to fully defend engineering decisions by improving how clearly I communicate my reasoning.
 
 It took me Approximately 8 hours to complete the A1 assignment.
