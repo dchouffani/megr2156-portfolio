@@ -14,7 +14,7 @@ My homepage will contain projects, design processes that explain what, how, and 
 
 I changed the color scheme from green to a blue grey. Blue grey is easier on the eyes than a bright green and gives a more professional appearance. This change meets the requirement that the technical content remain the main focus of the portfolio. The bright green draws attention away from the content, while the blue gray allows my projects and material to be the main focus.
 
-**Documentation Standard**
+**Documentation Standard:**
 
 The documentation standard I intend to meet for every assignment entry this semester is that my work will be detailed enough for a reader with no prior knowledge of the assignment to reproduce it without having to ask any questions.
 
@@ -25,7 +25,7 @@ The documentation standard I intend to meet for every assignment entry this seme
 **Navigability:**
 I was able to locate a project in less than 10 seconds. The main page is neatly organized, it flows seamlessly in order of name, description of who he is and what he does, projects, work experience, resume, and contact information. Nothing is hidden or hard to find, and I do not have to click any additional links to navigate through the page.
 
-**Reproducibility**
+**Reproducibility:**
 This documentation does not contain enough information for a colleague to reproduce the work without asking questions. It provides the major components used to build a virtual pinball cabinet such as a 43" 4K TV, a 32" Back glass TV, and a 3D printed lockdown bar. It also explains that the cabinet runs on a used gaming pc with the Pinball FX3 game and that PC wiring was modified to add a power button and two USB ports for a keyboard and mouse. However, the portfolio is missing exact cabinet dimensions, CAD drawings, hardware specifications, and detailed instructions that would allow someone to reproduce the virtual pinball cabinet.
 
 **Evidence of reasoning:**
@@ -39,7 +39,7 @@ The language mostly meets the standard of a document I would hand to an employer
 **Navigability:**
 This portfolio is easy to navigate; I was able to find a project under 10 seconds. It includes a description of what he is studying and his extracurriculars, a resume, contact information, featured projects, technical and professional skills, relevant coursework, and other projects.
 
-**Reproducibility**
+**Reproducibility:**
 This portfolio mostly contains enough information for a colleague to reproduce the work of the KingfiSCh aircraft, but some questions would have to be asked. The document includes aircraft dimensions, aerodynamic parameters, airfoil selections, structural materials, load requirements, wing and tail construction, fuselage design, landing gear design, propulsion specifications, exact major electronic components, fuel tank specifications, payload mechanisms, wiring diagrams, mass and CG information, a four-sheet drawing package, manufacturing materials and processes, assembly information, testing procedures, flight checklists, and measured performance data. However, it does not include fully dimensioned CAD drawings for every part, or step by step instructions on how to assemble the aircraft that would allow someone to exactly reproduce the work without asking questions.
 
 **Evidence of reasoning:**
@@ -50,12 +50,12 @@ The language of this portfolio meets the standard of a document I would hand to 
 
 ### Task B - Product Analysis: Apple Wedger
 
-**Primary Function**
+**Primary Function:**
 The primary function of the apple wedger is to manually apply a downward force through 8 radial blades and a coring blade to separate 8 apple wedges and its core. 
 
-**Governing Model**
+**Governing Model:**
 
-**i. Model and Variables**
+**i. Model and Variables:**
 
 σ=F/A
 
@@ -65,11 +65,11 @@ F= downward applied force
 
 A= contact area between blades and apple
 
-**ii. Assumption**
+**ii. Assumption:**
 
 One assumption that makes the model valid for this product is that the downward force that the user applies is evenly distributed across the blades and corer.
 
-**Geometry**
+**Geometry:**
 
 <img width="4284" height="5712" alt="IMG_9065" src="https://github.com/user-attachments/assets/fb059b7e-582b-4659-85ee-3814e3686398" />
 
@@ -79,7 +79,7 @@ The 8 metal blades radially surround the center corer. The radial geometry divid
 
 The plastic oval frame provides a large area for the user to apply a downward force using both hands. The frame is connected to the outside of the blades, transferring the force into the blades from both sides and helping keep the cutter level as it moves down through the apple.
 
-**Patent Research**
+**Patent Research:**
 
 Patent: EP2632666B1 — Apple Wedger
 
