@@ -1,4 +1,4 @@
-# A1 – [Build Your Professional Portfolio]
+# A1 – Build Your Professional Portfolio
 
 ## Objective
 
