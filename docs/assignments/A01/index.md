@@ -2,6 +2,19 @@
 
 ## Objective
 
+## Decide
+
+**Homepage Identity:**
+
+My homepage will contain projects, design processes that explain what, how, and why, CAD drawings and schematics, skills that show what I aim to work on in the future, prototypes, images, results, purposes, and calculations. Projects will be organized individually so that when a visitor clicks on a project title, they can see the images, CAD drawings, prototypes, purpose, design process, schematics, calculations, results, improvements made to the design, and how I reached the final product. The standard my portfolio will hold itself to is that it will be organized and detailed enough for another reader to reproduce my work without having to ask questions, with design decisions justified through clear engineering reasoning. These content and organization decisions will allow readers to easily locate my work, understand the purpose of each project, and follow the engineering process that led to the final design.
+
+**Intentional Customization:**
+
+I changed the color scheme from green to a blue grey. Blue grey is easier on the eyes than a bright green and gives a more professional appearance. This change meets the requirement that the technical content remain the main focus of the portfolio. The bright green draws attention away from the content, while the blue gray allows my projects and material to be the main focus.
+
+**Documentation Standard**
+
+The documentation standard I intend to meet for every assignment entry this semester is that my work will be detailed enough for a reader with no prior knowledge of the assignment to reproduce it without having to ask any questions.
 
 ## Analyze
 ### Task A - Portfolio Analysis
@@ -35,12 +48,12 @@ The language of this portfolio meets the standard of a document I would hand to 
 
 ### Task B - Product Analysis: Apple Wedger
 
-A. Primary Function
+**Primary Function**
 The primary function of the apple wedger is to manually apply a downward force through 8 radial blades and a coring blade to separate 8 apple wedges and its core. 
 
-B. Governing Model
+**Governing Model**
 
-i.
+**i. Model and Variables**
 
 σ=F/A
 
@@ -50,11 +63,11 @@ F= downward applied force
 
 A= contact area between blades and apple
 
-ii.
+**ii. Assumption**
 
 One assumption that makes the model valid for this product is that the downward force that the user applies is evenly distributed across the blades and corer.
 
-C. Geometry
+**Geometry**
 
 <img width="4284" height="5712" alt="IMG_9065" src="https://github.com/user-attachments/assets/fb059b7e-582b-4659-85ee-3814e3686398" />
 
@@ -64,13 +77,13 @@ The 8 metal blades radially surround the center corer. The radial geometry divid
 
 The plastic oval frame provides a large area for the user to apply a downward force using both hands. The frame is connected to the outside of the blades, transferring the force into the blades from both sides and helping keep the cutter level as it moves down through the apple.
 
-D. Patent Research
+**Patent Research**
 
 Patent: EP2632666B1 — Apple Wedger
 
 Author: Lawrence Michael Hauser
 
-i. Alternative Solutions
+**i. Alternative Solutions:**
 
 Alternative 1 - Knife:
 A knife can cut the apple into wedges and remove the core through multiple individual cuts, which serves the same function as the apple wedger but uses a different mechanical approach.
@@ -78,25 +91,11 @@ A knife can cut the apple into wedges and remove the core through multiple indiv
 Alternative 2 - Apple Hacker with Pull Down Handle
 A cast aluminum framed countertop apple hacker with suction feet and a pull down handle cores and wedges an apple by using a lever mechanism to force the apple through the stationary cutter and corer. The lever reduces the input force needed from the user compared to a handheld apple wedger.
 
-ii. Design decision
+**ii. Design decision:**
 
 One design decision the original engineer made was to arrange the blades radially around a circular center blade. This design allows the apple to be divided into eight equal wedges while simultaneously removing its core.
 
-## Decide
-
-1. Homepage Identity:
-
-My homepage will contain projects, design processes that explain what, how, and why, CAD drawings and schematics, skills that show what I aim to work on in the future, prototypes, images, results, purposes, and calculations. Projects will be organized individually so that when a visitor clicks on a project title, they can see the images, CAD drawings, prototypes, purpose, design process, schematics, calculations, results, improvements made to the design, and how I reached the final product. The standard my portfolio will hold itself to is that it will be organized and detailed enough for another reader to reproduce my work without having to ask questions, with design decisions justified through clear engineering reasoning. These content and organization decisions will allow readers to easily locate my work, understand the purpose of each project, and follow the engineering process that led to the final design.
-
-2. Intentional Customization:
-
-I changed the color scheme from green to a blue grey. Blue grey is easier on the eyes than a bright green and gives a more professional appearance. This change meets the requirement that the technical content remain the main focus of the portfolio. The bright green draws attention away from the content, while the blue gray allows my projects and material to be the main focus.
-
-3. Documentation Standard
-
-The documentation standard I intend to meet for every assignment entry this semester is that my work will be detailed enough for a reader with no prior knowledge of the assignment to reproduce it without having to ask any questions.
-
- 
 
 ## Communicate
 
+The professional identity portion of Part 3 is documented in the About Me section of the portfolio homepage as required.
