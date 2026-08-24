@@ -74,7 +74,7 @@ One assumption that makes the model valid for this product is that the downward 
 
 <img width="4284" height="5712" alt="IMG_9065" src="https://github.com/user-attachments/assets/fb059b7e-582b-4659-85ee-3814e3686398" />
 
-The 8 metal blades radially surround the center corer. The radial geometry divides the apple into 8 equal slices while simultaneously separating the apples core during a single downward movement. The blades being so thin allow the stress to be big enough to cut through the apple due to the contact area being smaller.
+The 8 metal blades radially surround the center corer. The radial geometry divides the apple into 8 equal slices while simultaneously separating the apples core during a single downward movement. The thin blades create a smaller contact area, which increases the stress applied to the apple and allows the blades to cut through it more easily.
 
 <img width="4284" height="5712" alt="IMG_9066" src="https://github.com/user-attachments/assets/d4b6f298-1c46-4c4b-9c7b-bcde82eb0148" />
 
