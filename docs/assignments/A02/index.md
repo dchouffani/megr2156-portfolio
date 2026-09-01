@@ -90,7 +90,7 @@ I chose a simple truss geometry with five joints and seven members. The geometry
 
 <img width="605" height="399" alt="Screenshot 2026-08-29 223715" src="https://github.com/user-attachments/assets/029d3c3d-9a3b-4955-a33b-b49e2e59e53c" />
 
-<img width="559" height="264" alt="Screenshot 2026-09-01 004016" src="https://github.com/user-attachments/assets/2025e427-beb2-4e35-a7ae-f8fe2f963704" />
+<img width="529" height="280" alt="Screenshot 2026-09-01 010823" src="https://github.com/user-attachments/assets/7b24a29d-d9a1-494d-af4e-b907312ea3c2" />
 
 
 A minimum member cross-sectional area of **280.42 mm²** was required for this design.
