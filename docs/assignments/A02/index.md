@@ -161,5 +161,5 @@ I also learned the importance of working smarter, not harder. This assignment he
 I spent approximately 10 hours symbolically and numerically solving for the internal forces and cross-sectional area, sketching and labeling free body diagrams, calculating weights, and creating the final product in SolidWorks.
 
 ### CAD File
-
+[Download SolidWorks Truss CAD Files](Truss%20ZIP.zip)
 
