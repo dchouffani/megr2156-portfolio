@@ -8,6 +8,8 @@ The objective of this assignment was to design a lightweight planar truss that s
 
 ### Given Design Constraints
 
+<img width="209" height="130" alt="Screenshot 2026-09-01 000716" src="https://github.com/user-attachments/assets/b249983f-2d68-4935-9c63-ac05b61ed015" />
+
 - Applied load: P = 25 kN
 - a = 0.4 m
 - b = 0.3 m
@@ -86,6 +88,11 @@ I chose a simple truss geometry with five joints and seven members. The geometry
 
 ### Final Member Dimensions
 
+<img width="605" height="399" alt="Screenshot 2026-08-29 223715" src="https://github.com/user-attachments/assets/029d3c3d-9a3b-4955-a33b-b49e2e59e53c" />
+
+<img width="559" height="264" alt="Screenshot 2026-09-01 004016" src="https://github.com/user-attachments/assets/2025e427-beb2-4e35-a7ae-f8fe2f963704" />
+
+
 A minimum member cross-sectional area of **280.42 mm²** was required for this design.
 
 The final CAD model I designed used 30 mm wide members with a thickness of 12.04 mm to maintain the minimum cross-sectional area requirement.
@@ -99,6 +106,8 @@ At the 6.02 mm diameter pin holes, I solved for the remaining cross-sectional ar
 The cross-sectional area of **288.72 mm²** is slightly greater than the required minimum area of **280.42 mm²**, which helps maintain the required cross-sectional area at the pin connections. I used a member width of **30 mm** and a thickness of **12.04 mm** because the pin holes remove area from the members at each connection. These dimensions allow the remaining cross-sectional area at the pin joints to stay above the required minimum area.
 
 ### Final Pin Design
+<img width="603" height="605" alt="Screenshot 2026-09-01 002421" src="https://github.com/user-attachments/assets/8ca66cb0-269e-4427-abd8-320ad49a6b02" />
+
 
 I created a custom material using the required density of 0.278 lb/in3, because SolidWorks did not have hardened tool steel. The final pins were modeled as cylinders all using the same geomtery with a diameter of 6.02 mm and a length of 12.04 mm. Five pins were used, corresponding to the five truss joints. The 6.02 mm diameter was selected from the single shear strength calculation instead of being chosen randomly. A pin length of 12.04 mm was used to match the final thickness of the truss. 
 
