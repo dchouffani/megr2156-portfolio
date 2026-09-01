@@ -53,7 +53,7 @@ A free body diagram was created for each joint. The method of joints was then us
 
 <img width="344" height="339" alt="Screenshot 2026-08-31 184157" src="https://github.com/user-attachments/assets/13119373-637a-4112-9a6f-f8efa40bae49" /> 
 
-I used ASTM 36 steel instead of A500 structural steel, because solid works did not have the A500 structural steel. I calculated the minimum required member cross-sectional area to be **280.42 mm²** using the largest internal member force, a safety factor of 3.5, and the yield strength of ASTM A36 steel. I used this area to solve for the hand calculated weight and as a minimum requirement when determining the width and depth of the truss members for the final CAD dimensions to make sure they would satisfy this minimum requirement.
+I used ASTM A36 steel instead of A500 structural steel, because SolidWorks did not have the A500 structural steel. I calculated the minimum required member cross-sectional area to be **280.42 mm²** using the largest internal member force, a safety factor of 3.5, and the yield strength of ASTM A36 steel. I used this area to solve for the hand calculated weight and as a minimum requirement when determining the width and depth of the truss members for the final CAD dimensions to make sure they would satisfy this minimum requirement.
 
 ### Approximate Truss Weight
 
@@ -109,7 +109,7 @@ The cross-sectional area of **288.72 mm²** is slightly greater than the require
 <img width="603" height="605" alt="Screenshot 2026-09-01 002421" src="https://github.com/user-attachments/assets/8ca66cb0-269e-4427-abd8-320ad49a6b02" />
 
 
-I created a custom material using the required density of 0.278 lb/in3, because SolidWorks did not have hardened tool steel. The final pins were modeled as cylinders all using the same geomtery with a diameter of 6.02 mm and a length of 12.04 mm. Five pins were used, corresponding to the five truss joints. The 6.02 mm diameter was selected from the single shear strength calculation instead of being chosen randomly. A pin length of 12.04 mm was used to match the final thickness of the truss. 
+I created a custom material using the required density of 0.278 lb/in3, because SolidWorks did not have hardened tool steel. The final pins were modeled as cylinders all using the same geometry with a diameter of 6.02 mm and a length of 12.04 mm. Five pins were used, corresponding to the five truss joints. The 6.02 mm diameter was selected from the single shear strength calculation instead of being chosen randomly. A pin length of 12.04 mm was used to match the final thickness of the truss. 
 
 
 ## Communicate
@@ -127,7 +127,7 @@ The truss minus the pins was modeled as one SolidWorks part. The pin was modeled
 I used SolidWorks Mass Properties to determine the mass of the completed truss using the appropriate materials. ASTM A36 steel was assigned to the truss, while the specified density of 0.278 lb/in³ was assigned to the custom hardened tool steel pins. 
 
 
-The Truss assembly had a predicted mass of **18.60 lb**. I converted this value to kilograms:
+The truss assembly had a predicted mass of **18.60 lb**. I converted this value to kilograms:
 
 **m = 18.60 lb × 0.45359237 kg/lb = 8.4368 kg**
 
