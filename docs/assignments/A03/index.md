@@ -63,7 +63,7 @@ W ≈ 0.02165 lb
 
 <img width="563" height="344" alt="dimensions" src="https://github.com/user-attachments/assets/c8b9d71f-8123-40a1-93f7-0546a175944c" />
 
-The diameter, applied force, Young’s Modulus, and maximum axial deflection were defined as parameters and were used to create the bar in SolidWorks. These parameters allowed the length of the bar to be automatically calculated as 7.068583 in.
+The diameter, applied force, Young’s Modulus, and maximum axial deflection were defined as parameters and were used to create the bar in SolidWorks. These parameters allowed the length of the bar to be automatically calculated as approximately 7.0686 in.
 
 ### Finite Element Analysis (FEA)
 
