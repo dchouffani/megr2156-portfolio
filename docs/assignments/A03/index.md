@@ -2,6 +2,8 @@
 
 ## Objective
 
+The objective of this assignment is to create a parametric CAD model of an aluminum bar with a circular cross section, determine the length of the bar, and compare the FEA results to the hand calculations. The FEA and hand calculations include safety factors, stress, and deflection. The Parameters in SolidWorks were used to design the bar while keeping the axial deflection within the maximum of 0.009 in. The goal is to understand how FEA can be used to make sure the requirements for strength and deflection are met.
+
 ## Analyze
 
 ### Parametric Design
@@ -43,9 +45,11 @@ L = 7.068583 in
 
 **CAD Parameters and Equations**
 
+<img width="601" height="255" alt="CAD equations" src="https://github.com/user-attachments/assets/1ece52c3-ed21-4d1e-9b6e-4acabc65ee90" />
+
 <img width="563" height="344" alt="dimensions" src="https://github.com/user-attachments/assets/c8b9d71f-8123-40a1-93f7-0546a175944c" />
 
-<img width="601" height="255" alt="CAD equations" src="https://github.com/user-attachments/assets/1ece52c3-ed21-4d1e-9b6e-4acabc65ee90" />
+The diameter, applied force, Young’s Modulus, and maximum axial deflection were defined as parameters and were used to create the bar in SolidWorks. These parameters allowed the length of the bar to be automatically calculated as 7.068583 in.
 
 ### Finite Element Analysis (FEA)
 
@@ -66,17 +70,25 @@ I found the Poisson’s ratio and mass density by researching general material p
 
 <img width="413" height="113" alt="forces" src="https://github.com/user-attachments/assets/ea179ea8-6806-4188-9354-f1838078fa20" />
 
+I fixed the left side of the bar to prevent the bar from moving and applied an outward tensile force of 400 lbf on the right side. The 400 lbf force is the same force used in my parametric design so that it could later be compared to the FEA results.
+ 
 **Mesh**
 
 <img width="894" height="204" alt="mesh" src="https://github.com/user-attachments/assets/b1a3c90f-1a0b-4baa-afe9-4d5e710fa98d" />
+
+I used a mesh because it divides the whole bar into smaller elements so the FEA can calculate the stress and deflection throughout the bar.
 
 **Deflection Map**
 
 <img width="456" height="488" alt="deflection " src="https://github.com/user-attachments/assets/e72ec1f8-fbf2-4057-a70d-5b1acea911d9" />
 
+The deflection map shows the smallest deflection as 3.937e-32 in and the maximum deflection as 8.993e-3 in. The deflection is greatest where the 400 lbf force is applied because that is where the bar stretches the most, and smallest where the bar is fixed because it cannot move.
+
 **von Mises Stress Map**
 
 <img width="434" height="478" alt="Stress" src="https://github.com/user-attachments/assets/c5702c2f-1013-4a3e-b971-afd3045ffa1b" />
+
+The von Mises stress map shows that the smallest stress is 5.635 ksi and the maximum stress is 13.47 ksi. The bar shows a uniform stress of approximately 12.68 ksi because the cross section is uniform and there are no stress concentrations.
 
 **Maximum Stress and Safety Factor**
 
@@ -100,14 +112,13 @@ SF = 2.97
 
 δ FEA = 0.008993 in
 
-% Difference = |δFEA - δhand| / δhand × 100
+% Difference = |δ FEA - δ given| / δ given × 100
 
 % Difference = |0.008993 - 0.009| / 0.009 × 100
 
 % Difference = 0.0778%
 
-
-**Pin-Hole Stress Concentration, Peak Stress, and Safety Factor**
+**Pin Hole Stress Concentration, Peak Stress, and Safety Factor**
 
 d/H = 0.20
 
@@ -135,14 +146,15 @@ SF hole < SF original
 
 ### Design Reflection
 
-
+There was no meaningful discrepancy between the given axial deflection and the one from the FEA. The percent difference was 0.0778%, The FEA deflection of 0.008993 in was less than the maximum allowable deflection of 0.009 in. Therefore, the bar meets the stiffness requirement. The results are very similar because the stress is distributed uniformly, there are no stress concentrations, and the bar has a uniform cross section. I would trust the given axial deflection more because it more accurately corresponds to the ideal geometry and loading conditions. I assumed a pin hole that was 20% of the bar's width. Using Peterson's chart, the stress concentration factor, Kt, was approximately 3.15. Using Kt, the estimated peak stress was approximately 39.942 ksi, which is less than the 40 ksi yield strength. The bar would not fail by yielding, and there would be no permanent deformation under the 400 lbf load. However, the safety factor is much lower than the original safety factor of 2.97, meaning the hole would make the bar closer to failure at the same 400 lbf load.
 
 ## Communicate
 
-### Lessons Learned
-
-### Mistakes and Challenges
+### Lessons Learned and Mistakes 
+One mistake I made was rounding off the area when solving for length, which changed the true length result. I learned not to round results when using them to solve other equations. I also learned that when solving the nominal stress, I should use the stress that was throughout the whole bar rather than the maximum stress.
 
 ### Actual Time Spent
+
+This assignment took me approximately 3 hours. Most of the time spent on this assignment was on the write up rather than designing the bar in SolidWorks.
 
 ### CAD File Download
