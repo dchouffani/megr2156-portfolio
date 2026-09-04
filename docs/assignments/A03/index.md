@@ -134,7 +134,7 @@ SF = 2.97
 
 **Pin Hole Stress Concentration, Peak Stress, and Safety Factor**
 
-<img width="460" height="555" alt="Screenshot 2026-09-04 192034" src="https://github.com/user-attachments/assets/208e8db1-152c-48c8-b15f-3c6bd1e546b1" />
+<img width="370" height="480" alt="Screenshot 2026-09-04 192515" src="https://github.com/user-attachments/assets/121ad079-9ea1-4016-86e7-446b492f2283" />
 
 d/H = 0.20
 
