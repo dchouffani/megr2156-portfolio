@@ -158,3 +158,4 @@ One mistake I made was rounding off the area when solving for length, which chan
 This assignment took me approximately 3 hours. Most of the time spent on this assignment was on the write up rather than designing the bar in SolidWorks.
 
 ### CAD File Download
+[Download A3 SOLIDWORKS CAD File](PASTE-LINK-HERE)
