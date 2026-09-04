@@ -41,7 +41,21 @@ L = δAE / F
 
 L = [(0.009 in)(0.031415926536 in²)(10,000,000 psi)] / (400 lbf)
 
-L = 7.068583 in
+L = 7.0685834706 in
+
+**Weight Calculation**
+
+V = A × L
+
+V = (0.031415926536 in²)(7.0685834706 in)
+
+V = 0.22206609903 in³
+
+W = density × V
+
+W = (0.0975 lb/in³)(0.22206609903 in³)
+
+W ≈ 0.02165 lb
 
 **CAD Parameters and Equations**
 
@@ -151,7 +165,7 @@ There was no meaningful discrepancy between the given axial deflection and the o
 ## Communicate
 
 ### Lessons Learned and Mistakes 
-One mistake I made was rounding off the area when solving for length, which changed the true length result. I learned not to round results when using them to solve other equations. I also learned that when solving the nominal stress, I should use the stress that was throughout the whole bar rather than the maximum stress.
+One mistake I made was rounding off the area when solving for length, which changed the true length result. I learned not to round results when using them to solve other equations. I also learned that when determining the nominal stress, I should use the stress that was throughout the whole bar rather than the maximum stress.
 
 ### Actual Time Spent
 
