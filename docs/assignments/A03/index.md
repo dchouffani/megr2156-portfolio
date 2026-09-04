@@ -13,7 +13,7 @@ The objective of this assignment is to create a parametric CAD model of an alumi
 - Young's Modulus, E = 10,000,000 psi
 - Maximum Axial Deflection, δ = 0.009 in
 - Bar Diameter, d = 0.200 in
-- Aluminum Yield Strength, Sy = 40 ksi
+- Aluminum Yield Strength, Sy = 40,000 psi
 
 **Cross-Sectional Area**
 
@@ -88,19 +88,19 @@ The deflection map shows the smallest deflection as 3.937e-32 in and the maximum
 
 <img width="434" height="478" alt="Stress" src="https://github.com/user-attachments/assets/c5702c2f-1013-4a3e-b971-afd3045ffa1b" />
 
-The von Mises stress map shows that the smallest stress is 5.635 ksi and the maximum stress is 13.47 ksi. The bar shows a uniform stress of approximately 12.68 ksi because the cross section is uniform and there are no stress concentrations.
+The von Mises stress map shows that the smallest stress is 5,635 psi and the maximum stress is 13,470 psi. The bar shows a uniform stress of approximately 12,680 psi because the cross section is uniform and there are no stress concentrations.
 
 **Maximum Stress and Safety Factor**
 
-σ max = 13.47 ksi
+σ max = 13,470 psi
 
-Sy = 40 ksi
+Sy = 40,000 psi
 
-13.47 < 40 ✓
+13,470 < 40,000 ✓
 
 SF = Sy/σmax
 
-SF = 40/13.47
+SF = 40,000/13,470
 
 SF = 2.97
 
@@ -124,17 +124,17 @@ d/H = 0.20
 
 Kt ≈ 3.15
 
-σ nominal = 12.68 ksi
+σ nominal = 12,680 psi
 
 σ peak = Kt(σ nominal)
 
-σ peak = (3.15)(12.68)
+σ peak = (3.15)(12,680)
 
-σ peak = 39.942 ksi
+σ peak = 39,942 psi
 
 SF hole = Sy/σ peak
 
-SF hole = 40/39.942
+SF hole = 40,000/39,942
 
 SF hole ≈ 1.00
 
@@ -146,7 +146,7 @@ SF hole < SF original
 
 ### Design Reflection
 
-There was no meaningful discrepancy between the given axial deflection and the one from the FEA. The percent difference was 0.0778%, The FEA deflection of 0.008993 in was less than the maximum allowable deflection of 0.009 in. Therefore, the bar meets the stiffness requirement. The results are very similar because the stress is distributed uniformly, there are no stress concentrations, and the bar has a uniform cross section. I would trust the given axial deflection more because it more accurately corresponds to the ideal geometry and loading conditions. I assumed a pin hole that was 20% of the bar's width. Using Peterson's chart, the stress concentration factor, Kt, was approximately 3.15. Using Kt, the estimated peak stress was approximately 39.942 ksi, which is less than the 40 ksi yield strength. The bar would not fail by yielding, and there would be no permanent deformation under the 400 lbf load. However, the safety factor is much lower than the original safety factor of 2.97, meaning the hole would make the bar closer to failure at the same 400 lbf load.
+There was no meaningful discrepancy between the given axial deflection and the one from the FEA. The percent difference was 0.0778%, The FEA deflection of 0.008993 in was less than the maximum allowable deflection of 0.009 in. Therefore, the bar meets the stiffness requirement. The results are very similar because the stress is distributed uniformly, there are no stress concentrations, and the bar has a uniform cross section. I would trust the given axial deflection more because it more accurately corresponds to the ideal geometry and loading conditions. I assumed a pin hole that was 20% of the bar's width. Using Peterson's chart, the stress concentration factor, Kt, was approximately 3.15. Using Kt, the estimated peak stress was approximately 39,942 psi, which is less than the 40,000 psi yield strength. The bar would not fail by yielding, and there would be no permanent deformation under the 400 lbf load. However, the safety factor is much lower than the original safety factor of 2.97, meaning the hole would make the bar closer to failure at the same 400 lbf load.
 
 ## Communicate
 
