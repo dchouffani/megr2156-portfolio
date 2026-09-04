@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this assignment is to create a parametric CAD model of an aluminum bar with a circular cross section, determine the length of the bar, and compare the FEA results to the hand calculations. The FEA and hand calculations include safety factors, stress, and deflection. The Parameters in SolidWorks were used to design the bar while keeping the axial deflection within the maximum of 0.009 in. The goal is to understand how FEA can be used to make sure the requirements for strength and deflection are met.
+The objective of this assignment is to create a parametric CAD model of an aluminum bar with a circular cross section, determine the length of the bar using parametric design, define parameters in SolidWorks, and compare the FEA results to the hand calculations. The FEA and hand calculations include safety factors, stress, and deflection. The parameters in SolidWorks were used to design the bar while keeping the axial deflection within the maximum of 0.009 in. The goal is to understand how FEA can be used to make sure the requirements for strength and deflection are met.
 
 ## Analyze
 
