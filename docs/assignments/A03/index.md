@@ -158,4 +158,4 @@ One mistake I made was rounding off the area when solving for length, which chan
 This assignment took me approximately 3 hours. Most of the time spent on this assignment was on the write up rather than designing the bar in SolidWorks.
 
 ### CAD File Download
-[Download A3 SOLIDWORKS CAD File]([A3%20Parametric%20and%20FEA.SLDPRT](https://github.com/dchouffani/megr2156-portfolio/raw/refs/heads/main/docs/assignments/A03/A3%20Parametric%20and%20FEA.SLDPRT))
+[Download A3 SOLIDWORKS CAD File](https://github.com/dchouffani/megr2156-portfolio/raw/refs/heads/main/docs/assignments/A03/A3%20Parametric%20and%20FEA.SLDPRT)
