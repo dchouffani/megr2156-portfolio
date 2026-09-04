@@ -115,13 +115,13 @@ Kt ≈ 3.15
 
 σ nominal = 12.68 ksi
 
-σ peak = Kt(σnominal)
+σ peak = Kt(σ nominal)
 
 σ peak = (3.15)(12.68)
 
 σ peak = 39.942 ksi
 
-SF hole = Sy/σpeak
+SF hole = Sy/σ peak
 
 SF hole = 40/39.942
 
