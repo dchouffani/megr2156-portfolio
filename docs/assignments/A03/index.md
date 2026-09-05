@@ -118,6 +118,8 @@ SF = 40,000/13,470
 
 SF = 2.97
 
+The maximum stress being 13,470 psi, which is less than the yield strength of 40,000 psi, means the bar is far from the point where it would start to permanently deform. The yield strength is 2.97 times greater than the maximum stress that the bar experiences.
+
 ### Design Analysis
 
 **Percent Difference**
