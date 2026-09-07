@@ -21,7 +21,7 @@ The objective of this assignment is to create a parametric CAD model of an alumi
 
 <img width="438" height="96" alt="Screenshot 2026-09-06 233849" src="https://github.com/user-attachments/assets/7e9a6b78-a709-45cf-8016-5a5647909baa" />
 
-I calculated the cross-sectional area from the chosen diameter of 0.20 in. The area was used to find the length of the bar.
+I calculated the cross-sectional area from the chosen diameter of 0.200 in. The area was used to find the length of the bar.
 
 **Parametric Length**
 
