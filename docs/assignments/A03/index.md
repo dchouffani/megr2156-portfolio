@@ -62,7 +62,7 @@ I found the Poisson’s ratio and mass density by researching general material p
 
 <img width="413" height="113" alt="forces" src="https://github.com/user-attachments/assets/ea179ea8-6806-4188-9354-f1838078fa20" />
 
-I fixed the left side of the bar to prevent the bar from moving and applied an outward tensile force of 400 lbf on the right side. The 400 lbf force is the same force used in my parametric design so that it could later be compared to the FEA results.
+I fixed the left side of the bar to prevent the bar from moving and applied an outward tensile force of 400 lbf on the right side to cause the bar to elongate. This allowed the FEA to calculate the stress and deflection caused by the 400 lbf load.
  
 **Mesh**
 
