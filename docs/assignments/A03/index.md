@@ -17,17 +17,9 @@ The objective of this assignment is to create a parametric CAD model of an alumi
 
 **Cross-Sectional Area**
 
-A = πd² / 4
-
-A = π(0.200 in)² / 4
-
-A = 0.031415926536 in²
+<img width="473" height="119" alt="a" src="https://github.com/user-attachments/assets/253552e1-a5cf-4dbe-a463-c6f983c6ef79" />
 
 **Parametric Length Calculation**
-
-δ = FL / AE
-
-where:
 
 - δ = axial deflection
 - F = applied force
@@ -35,27 +27,13 @@ where:
 - A = cross-sectional area
 - E = Young's Modulus
 
-The equation was rearranged to solve for the required length:
+<img width="504" height="159" alt="Screenshot 2026-09-06 232625" src="https://github.com/user-attachments/assets/e9411ece-fdde-4a70-8e16-7b155f6a2b51" />
 
-L = δAE / F
-
-L = [(0.009 in)(0.031415926536 in²)(10,000,000 psi)] / (400 lbf)
-
-L = 7.0685834706 in
 
 **Weight Calculation**
 
-V = A × L
+<img width="489" height="190" alt="Screenshot 2026-09-06 232644" src="https://github.com/user-attachments/assets/93edc344-175e-4a4b-8740-5a5c3813162c" />
 
-V = (0.031415926536 in²)(7.0685834706 in)
-
-V = 0.22206609903 in³
-
-W = density × V
-
-W = (0.0975 lb/in³)(0.22206609903 in³)
-
-W ≈ 0.02165 lb
 
 **CAD Parameters and Equations**
 
@@ -106,17 +84,8 @@ The von Mises stress map shows that the smallest stress is 5,635 psi and the max
 
 **Maximum Stress and Safety Factor**
 
-σ max = 13,470 psi
+<img width="471" height="132" alt="Screenshot 2026-09-06 232713" src="https://github.com/user-attachments/assets/66cdd156-ec30-4d30-bb3e-c6d8a4b0f0c0" />
 
-Sy = 40,000 psi
-
-13,470 < 40,000 ✓
-
-SF = Sy/σmax
-
-SF = 40,000/13,470
-
-SF = 2.97
 
 The maximum stress being 13,470 psi, which is less than the yield strength of 40,000 psi, means the bar is far from the point where it would start to permanently deform. The yield strength is 2.97 times greater than the maximum stress that the bar experiences.
 
@@ -124,41 +93,15 @@ The maximum stress being 13,470 psi, which is less than the yield strength of 40
 
 **Percent Difference**
 
-δ given = 0.009 in
+<img width="488" height="200" alt="Screenshot 2026-09-06 232733" src="https://github.com/user-attachments/assets/de638ea0-7baa-4e0a-b5c8-4fe763c61a06" />
 
-δ FEA = 0.008993 in
-
-% Difference = |δ FEA - δ given| / δ given × 100
-
-% Difference = |0.008993 - 0.009| / 0.009 × 100
-
-% Difference = 0.0778%
 
 **Pin Hole Stress Concentration, Peak Stress, and Safety Factor**
 
 <img width="370" height="480" alt="Screenshot 2026-09-04 192515" src="https://github.com/user-attachments/assets/121ad079-9ea1-4016-86e7-446b492f2283" />
 
-d/H = 0.20
+<img width="492" height="222" alt="Screenshot 2026-09-06 232754" src="https://github.com/user-attachments/assets/2c2996ac-9967-47b2-9cf4-113d56820743" />
 
-Kt ≈ 3.15
-
-σ nominal = 12,680 psi
-
-σ peak = Kt(σ nominal)
-
-σ peak = (3.15)(12,680)
-
-σ peak = 39,942 psi
-
-SF hole = Sy/σ peak
-
-SF hole = 40,000/39,942
-
-SF hole ≈ 1.00
-
-SF hole < SF original
-
-1.00 < 2.97
 
 ## Decide
 
