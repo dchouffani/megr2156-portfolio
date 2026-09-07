@@ -13,27 +13,24 @@ The objective of this assignment is to create a parametric CAD model of an alumi
 - Young's Modulus, E = 10,000,000 psi
 - Maximum Axial Deflection, δ = 0.009 in
 - Bar Diameter, d = 0.200 in
-- Aluminum Yield Strength, Sy = 40,000 psi
-
+- Yield Strength, Sy = 40,000 psi
+- Poisson's Ratio = 0.33
+- Mass Density = 0.0975 lb/in³
+  
 **Cross-Sectional Area**
 
-<img width="473" height="119" alt="a" src="https://github.com/user-attachments/assets/253552e1-a5cf-4dbe-a463-c6f983c6ef79" />
+<img width="438" height="96" alt="Screenshot 2026-09-06 233849" src="https://github.com/user-attachments/assets/7e9a6b78-a709-45cf-8016-5a5647909baa" />
 
-**Parametric Length Calculation**
 
-- δ = axial deflection
-- F = applied force
-- L = bar length
-- A = cross-sectional area
-- E = Young's Modulus
+**Parametric Length**
 
 <img width="504" height="159" alt="Screenshot 2026-09-06 232625" src="https://github.com/user-attachments/assets/e9411ece-fdde-4a70-8e16-7b155f6a2b51" />
 
+I rearranged the axial deflection formula to solve the required length.
 
-**Weight Calculation**
+**Weight**
 
 <img width="489" height="190" alt="Screenshot 2026-09-06 232644" src="https://github.com/user-attachments/assets/93edc344-175e-4a4b-8740-5a5c3813162c" />
-
 
 **CAD Parameters and Equations**
 
