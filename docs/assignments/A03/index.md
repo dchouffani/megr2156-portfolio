@@ -92,6 +92,7 @@ The maximum stress being 13,470 psi, which is less than the yield strength of 40
 
 <img width="488" height="200" alt="Screenshot 2026-09-06 232733" src="https://github.com/user-attachments/assets/de638ea0-7baa-4e0a-b5c8-4fe763c61a06" />
 
+I calculated the percent difference between the given axial deflection and the FEA axial deflection. The result of 0.0778% is almost negligible.
 
 **Pin Hole Stress Concentration, Peak Stress, and Safety Factor**
 
@@ -100,13 +101,14 @@ The maximum stress being 13,470 psi, which is less than the yield strength of 40
 <img width="492" height="222" alt="Screenshot 2026-09-06 232754" src="https://github.com/user-attachments/assets/2c2996ac-9967-47b2-9cf4-113d56820743" />
 
 
+
 ## Decide
 
 ### Design Reflection
 
-There was no meaningful discrepancy between the given axial deflection and the one from the FEA. The percent difference was 0.0778%, The FEA deflection of 0.008993 in was less than the maximum allowable deflection of 0.009 in. Therefore, the bar meets the stiffness requirement. The results are very similar because the stress is distributed uniformly, there are no stress concentrations, and the bar has a uniform cross section. I would trust the given axial deflection more because it more accurately corresponds to the ideal geometry and loading conditions. 
+There was no meaningful discrepancy between the given axial deflection and the one from the FEA. The percent difference was 0.0778%. The FEA deflection of 0.008993 in was less than the maximum allowable deflection of 0.009 in. Therefore, the bar meets the stiffness requirement. The results are very similar because the stress is distributed uniformly, there are no stress concentrations, and the bar has a uniform cross section. I would trust the given axial deflection more because it more accurately corresponds to the ideal geometry and loading conditions. 
 
-I assumed a pin hole that was 20% of the bar's width. Using Peterson's chart for a hole in a flat bar in tension, the stress concentration factor, Kt, was approximately 3.15. Using Kt, the estimated peak stress was approximately 39,942 psi, which is less than the 40,000 psi yield strength. The bar would not fail by yielding, and there would be no permanent deformation under the 400 lbf load. However, the safety factor is much lower than the original safety factor of 2.97, meaning the hole would make the bar closer to failure at the same 400 lbf load.
+I assumed a pin hole that was 20% of the bar's width. Using Peterson's chart for a hole in a flat bar in tension, the stress concentration factor, Kt, was approximately 3.15. Using Kt and the nominal stress, the estimated peak stress was approximately 39,942 psi, which is less than the 40,000 psi yield strength. The bar would not fail by yielding, and there would be no permanent deformation under the 400 lbf load. However, the safety factor is much lower than the original safety factor of 2.97, meaning the hole would make the bar closer to failure at the same 400 lbf load.
 
 ## Communicate
 
