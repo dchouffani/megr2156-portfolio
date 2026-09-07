@@ -74,13 +74,13 @@ To allow the FEA to calculate the stress and deflection throughout the bar, I us
 
 <img width="456" height="488" alt="deflection " src="https://github.com/user-attachments/assets/e72ec1f8-fbf2-4057-a70d-5b1acea911d9" />
 
-The deflection map shows the smallest deflection as 3.937e-32 in and the maximum deflection as 8.993e-3 in. The deflection is greatest where the 400 lbf force is applied because that is where the bar stretches the most, and smallest where the bar is fixed because it cannot move.
+The deflection map shows the minimum deflection as 3.937e-32 in and the maximum deflection as 8.993e-3 in. The deflection is greatest where the 400 lbf force is applied because that is where the bar stretches the most, and smallest where the bar is fixed because it cannot move.
 
 **von Mises Stress Map**
 
 <img width="434" height="478" alt="Stress" src="https://github.com/user-attachments/assets/c5702c2f-1013-4a3e-b971-afd3045ffa1b" />
 
-The von Mises stress map shows that the smallest stress is 5,635 psi and the maximum stress is 13,470 psi. The bar shows a uniform stress of approximately 12,680 psi because the cross section is uniform and there are no stress concentrations.
+The von Mises stress map shows the minimum stress as 5,635 psi and the maximum stress as 13,470 psi. The bar shows a uniform stress of approximately 12,680 psi because the cross section is uniform and there are no stress concentrations.
 
 **Maximum Stress and Safety Factor**
 
