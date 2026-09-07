@@ -21,16 +21,19 @@ The objective of this assignment is to create a parametric CAD model of an alumi
 
 <img width="438" height="96" alt="Screenshot 2026-09-06 233849" src="https://github.com/user-attachments/assets/7e9a6b78-a709-45cf-8016-5a5647909baa" />
 
+I calculated the cross-sectional area from the chosen diameter of 0.20 in. The area was used to find the length of the bar.
 
 **Parametric Length**
 
 <img width="504" height="159" alt="Screenshot 2026-09-06 232625" src="https://github.com/user-attachments/assets/e9411ece-fdde-4a70-8e16-7b155f6a2b51" />
 
-I rearranged the axial deflection formula to solve the required length.
+I rearranged the direct tension elongation equation to solve for the required length. This length was later used as a parameter in SolidWorks to create the bar and perform the FEA.
 
 **Weight**
 
 <img width="489" height="190" alt="Screenshot 2026-09-06 232644" src="https://github.com/user-attachments/assets/93edc344-175e-4a4b-8740-5a5c3813162c" />
+
+Using the bars volume and density of aluminum, I calculated its weight.
 
 **CAD Parameters and Equations**
 
@@ -65,7 +68,7 @@ I fixed the left side of the bar to prevent the bar from moving and applied an o
 
 <img width="894" height="204" alt="mesh" src="https://github.com/user-attachments/assets/b1a3c90f-1a0b-4baa-afe9-4d5e710fa98d" />
 
-I used a mesh because it divides the whole bar into smaller elements so the FEA can calculate the stress and deflection throughout the bar.
+To allow the FEA to calculate the stress and deflection throughout the bar, I used a mesh to divide it into smaller elements.
 
 **Deflection Map**
 
@@ -83,7 +86,6 @@ The von Mises stress map shows that the smallest stress is 5,635 psi and the max
 
 <img width="471" height="132" alt="Screenshot 2026-09-06 232713" src="https://github.com/user-attachments/assets/66cdd156-ec30-4d30-bb3e-c6d8a4b0f0c0" />
 
-
 The maximum stress being 13,470 psi, which is less than the yield strength of 40,000 psi, means the bar is far from the point where it would start to permanently deform. The yield strength is 2.97 times greater than the maximum stress that the bar experiences.
 
 ### Design Analysis
@@ -92,7 +94,7 @@ The maximum stress being 13,470 psi, which is less than the yield strength of 40
 
 <img width="488" height="200" alt="Screenshot 2026-09-06 232733" src="https://github.com/user-attachments/assets/de638ea0-7baa-4e0a-b5c8-4fe763c61a06" />
 
-I calculated the percent difference between the given axial deflection and the FEA axial deflection. The result of 0.0778% is almost negligible.
+I calculated the percent difference between the given axial deflection and the FEA axial deflection to see how close the FEA result was to the calculated result. The result of 0.0778% is almost negligible.
 
 **Pin Hole Stress Concentration, Peak Stress, and Safety Factor**
 
@@ -100,7 +102,7 @@ I calculated the percent difference between the given axial deflection and the F
 
 <img width="492" height="222" alt="Screenshot 2026-09-06 232754" src="https://github.com/user-attachments/assets/2c2996ac-9967-47b2-9cf4-113d56820743" />
 
-
+I calculated the stress concentration, peak stress, and safety factor to determine how adding a pin hole to a flat bar in tension would affect the bar under the 400 lbf load.
 
 ## Decide
 
@@ -108,7 +110,7 @@ I calculated the percent difference between the given axial deflection and the F
 
 There was no meaningful discrepancy between the given axial deflection and the one from the FEA. The percent difference was 0.0778%. The FEA deflection of 0.008993 in was less than the maximum allowable deflection of 0.009 in. Therefore, the bar meets the stiffness requirement. The results are very similar because the stress is distributed uniformly, there are no stress concentrations, and the bar has a uniform cross section. I would trust the given axial deflection more because it more accurately corresponds to the ideal geometry and loading conditions. 
 
-I assumed a pin hole that was 20% of the bar's width. Using Peterson's chart for a hole in a flat bar in tension, the stress concentration factor, Kt, was approximately 3.15. Using Kt and the nominal stress, the estimated peak stress was approximately 39,942 psi, which is less than the 40,000 psi yield strength. The bar would not fail by yielding, and there would be no permanent deformation under the 400 lbf load. However, the safety factor is much lower than the original safety factor of 2.97, meaning the hole would make the bar closer to failure at the same 400 lbf load.
+I assumed a pin hole that was 20% of the bar's width, d/H=0.20. Using Peterson's chart for a hole in a flat bar in tension, the stress concentration factor, Kt, was approximately 3.15. Using Kt and the nominal stress, the estimated peak stress was 39,942 psi, which is less than the 40,000 psi yield strength. Although technically the bar would not fail by yielding and there would be no permanent deformation under the 400 lbf load, it would be very close to its limit. The safety factor is much lower than the original safety factor of 2.97, meaning the hole would make the bar considerably weaker at the same 400 lbf load. The nominal stress of the bar was 12,680 psi, while the estimated peak stress after adding the hole was 39,942 psi. Therefore, adding a substantial hole would greatly affect the safety of the bar.
 
 ## Communicate
 
