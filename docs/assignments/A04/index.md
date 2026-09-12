@@ -117,4 +117,6 @@ I researched different motor mounts to give me ideas for the dimensions and over
 [NEMA 34 L Shape Motor Mounting Bracket](https://eshop.carlisgrove.com/product-p-961238.html)
 
 ## CAD File Download
+## CAD File Download
 
+[Download A4 Motor Mount SolidWorks File](https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A04/A4%20Motor%20Mount.SLDPRT)
