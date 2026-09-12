@@ -64,8 +64,12 @@ To solve for the minimum height, I set the allowable stress equal to the maximum
 To solve for the  minimum height, I set the allowable deflection equal to the maximum deflection of 0.30mm to satisfy the delection requiremnt.
 
 I then chose the larger height between the stress and deflection calculations because it was the minimum size that satisfied both the stress and deflection requirements.
+
 ## Parametric Design
+
 <img width="590" height="425" alt="equa" src="https://github.com/user-attachments/assets/7ffa4cdd-97ea-4125-b16f-c26b82c7b5fb" />
+
+I used global variables and equations in SolidWorks to define the dimensions of my model.
 
 # Decide
 <img width="722" height="541" alt="feat 2 thick" src="https://github.com/user-attachments/assets/7074d8e4-c2af-4ee5-a94a-80edcede4995" />
@@ -106,6 +110,8 @@ I added a rib extending from the top edge of Feature 2 to the base of Feature 1 
 
 I learned how to find the cross sectional geometry using beam stress and deflection equations. One mistake I made during the design process was calculating the bending length for Feature 2. Initially, I used the height of Feature 1, but I later realized from the appendix that the bending length needed to include the bolt hole location. I reevaluated my setup and corrected my calculations.
 
+This assignment took me approximately 6 hours to complete. Most of the time was spent determining appropriate dimensions and modeling my design in SolidWorks.
+
 ## Appendix
 
 ### Motor Mount Research
@@ -116,7 +122,6 @@ I researched different motor mounts to give me ideas for the dimensions and over
 
 [NEMA 34 L Shape Motor Mounting Bracket](https://eshop.carlisgrove.com/product-p-961238.html)
 
-## CAD File Download
 ## CAD File Download
 
 [Download A4 Motor Mount SolidWorks File](https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A04/A4%20Motor%20Mount.SLDPRT)
