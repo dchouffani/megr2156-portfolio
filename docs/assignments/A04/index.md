@@ -44,7 +44,7 @@ I then chose the larger height between the stress and deflection calculations be
 
 ### Free Body Diagram
 
-<img width="315" height="150" alt="Screenshot 2026-09-10 212455" src="https://github.com/user-attachments/assets/e1321ca2-fd6f-4101-9835-41db1d66d321" />
+<img width="413" height="167" alt="Screenshot 2026-09-12 003554" src="https://github.com/user-attachments/assets/c9b70537-0733-4c02-b02f-474a814c5111" />
 
 ### Geometry
 
