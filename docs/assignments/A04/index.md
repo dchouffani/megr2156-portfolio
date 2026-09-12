@@ -27,13 +27,13 @@ ABS was chosen from the SOLIDWORKS material library for the motor mount. The SOL
 ### Height from Stress
 <img width="336" height="238" alt="Screenshot 2026-09-11 200346" src="https://github.com/user-attachments/assets/5ffbc636-ef1b-4456-bd5c-e45d7e4e42f6" />
 
-To solve for the minimum height, I set the allowable stress equal to the maximum stress to satisfy the stress requiremnt.
+To solve for the minimum height, I set the maximum bending stress equal to the allowable stress so the design would not exceed the allowable stress limit.
 
 ### Height from Deflection
 
 <img width="354" height="400" alt="image" src="https://github.com/user-attachments/assets/e0dec3c9-8edd-40af-8413-1f97511be908" />
 
-To solve for the  minimum height, I set the allowable deflection equal to the maximum deflection of 0.30mm to satisfy the delection requiremnt.
+To solve for the minimum height, I set the maximum deflection equal to the allowable deflection of 0.30 mm so the design would not exceed the allowable deflection limit.
 
 I then chose the larger height between the stress and deflection calculations because it was the minimum size that satisfied both the stress and deflection requirements.
 
