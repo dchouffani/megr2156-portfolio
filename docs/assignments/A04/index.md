@@ -109,7 +109,7 @@ I added a rib extending from the top edge of Feature 2 to the base of Feature 1 
 
 ## Lessons Learned
 
-I learned how to find the cross sectional geometry using beam stress and deflection equations. One mistake I made during the design process was calculating the bending length for Feature 2. Initially, I used the height of Feature 1, but I later realized from the appendix that the bending length needed to include the bolt hole location. I reevaluated my setup and corrected my calculations.
+I learned how to find the cross sectional geometry using beam stress and deflection equations. One mistake I made during the design process was calculating the bending length for Feature 2. Initially, I used the height of Feature 1, but I later realized from the appendix that the bending length needed to extend to the top edge of the lower bolt hole. I reevaluated my setup and corrected my calculations.
 
 This assignment took me approximately 6 hours to complete. Most of the time was spent determining appropriate dimensions and modeling my design in SolidWorks.
 
