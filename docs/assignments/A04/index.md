@@ -82,7 +82,7 @@ The motor shaft had a diameter of 6 mm, so I made the shaft clearance hole in my
 
 <img width="629" height="564" alt="Screenshot 2026-09-10 230216" src="https://github.com/user-attachments/assets/a1013a3a-e28e-4bba-b6bc-1fbcda00443e" />
 
-I used a circular sketch pattern in SolidWorks to place four M3 3.4 mm clearance bolt holes equally spaced around the center.
+I used a circular sketch pattern in SolidWorks to create four 3.4 mm M3 clearance holes equally spaced around a 22 mm construction circle used to place the centers of the holes. The holes were spaced 90° apart around the center of Feature 1.
 
 <img width="374" height="552" alt="18 2 and d" src="https://github.com/user-attachments/assets/f01858c9-acf4-400f-93d0-6520d7bec502" />
 
@@ -90,7 +90,7 @@ I made the boss clearance diameter 18.2 mm to provide enough space for the 18 mm
 
 <img width="610" height="608" alt="new feat 2 holes dim" src="https://github.com/user-attachments/assets/9a914f77-e401-4a33-a369-c85aac5320f3" />
 
-I used a linear sketch pattern in SolidWorks to place four M3 3.4 mm bolt clearance holes 10 mm horizontally and vertically from the center of the exposed portion of Feature 2 above Feature 1.
+I used a linear sketch pattern in SolidWorks to create four 3.4 mm M3 clearance holes in a square pattern on Feature 2. The four holes were arranged symmetrically around the intersection of the horizontal and vertical construction lines. Each hole center was located 10 mm horizontally and 10 mm vertically from the center, giving 20 mm of spacing between the holes in both directions.
 
 <img width="446" height="569" alt="rib dim" src="https://github.com/user-attachments/assets/492838f0-baf5-4e0f-bc4a-ba3904089d1f" />
 <img width="440" height="550" alt="rib thickness" src="https://github.com/user-attachments/assets/937f292e-a56d-4f8f-ad42-19064448a4d1" />
