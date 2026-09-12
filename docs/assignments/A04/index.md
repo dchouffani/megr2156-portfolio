@@ -82,7 +82,7 @@ For Feature 1, I chose a width and length of 40 mm because the largest diameter 
 
 <img width="680" height="598" alt="Screenshot 2026-09-10 224311" src="https://github.com/user-attachments/assets/e0bd98b6-a868-4fed-a2fa-9fde26121b4e" />
 
-The motor shaft had a diameter of 6 mm, so I made the shaft clearance hole in my design 6.5 mm. This gave the shaft enough clearance to rotate freely without touching the motor mount.
+The motor shaft had a diameter of 6 mm, so I made the shaft clearance hole in my design 6.5 mm. This gave the shaft enough clearance to rotate freely without touching the motor mount on feature 1.
 
 <img width="629" height="564" alt="Screenshot 2026-09-10 230216" src="https://github.com/user-attachments/assets/a1013a3a-e28e-4bba-b6bc-1fbcda00443e" />
 
@@ -90,7 +90,7 @@ I used a circular sketch pattern in SolidWorks to create four 3.4 mm M3 clearanc
 
 <img width="374" height="552" alt="18 2 and d" src="https://github.com/user-attachments/assets/f01858c9-acf4-400f-93d0-6520d7bec502" />
 
-I made the boss clearance diameter 18.2 mm to provide enough space for the 18 mm motor boss to fully fit. I also made the recess 2 mm deep to match the depth of the motor boss.
+On feature 1, I made the boss clearance diameter 18.2 mm to provide enough space for the 18 mm motor boss to fully fit. I also made the recess 2 mm deep to match the depth of the motor boss.
 
 <img width="610" height="608" alt="new feat 2 holes dim" src="https://github.com/user-attachments/assets/9a914f77-e401-4a33-a369-c85aac5320f3" />
 
