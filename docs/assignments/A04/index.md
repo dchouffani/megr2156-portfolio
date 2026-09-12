@@ -15,7 +15,8 @@ The objective of this assignment was to design a motor mount for a brushed 24V D
 
 <img width="592" height="448" alt="material" src="https://github.com/user-attachments/assets/dc1467f8-2704-451d-8625-afbf6ec9c5ea" />
 
-ABS was chosen from the SOLIDWORKS material library for the motor mount. The SOLIDWORKS ABS material data did not include a yield strength, so a yield strength of 30 MPa was selected using material property data from [SpecialChem](https://www.specialchem.com/plastics/guide/acrylonitrile-butadiene-styrene-abs-plastic). 
+ABS was chosen from the SolidWorks material library for the motor mount. The SOLIDWORKS ABS material data did not include a yield strength, so I selected a yield strength of 30 MPa from  [SpecialChem](https://www.specialchem.com/plastics/guide/acrylonitrile-butadiene-styrene-abs-plastic) because it was consistent with the ABS material data provided in SolidWorks.
+
 
 ## Feature 1
 
