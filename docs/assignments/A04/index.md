@@ -73,6 +73,9 @@ I then chose the larger height between the stress and deflection calculations be
 I used global variables and equations in SolidWorks to define the dimensions of my model.
 
 # Decide
+
+## Dimensions
+
 <img width="722" height="541" alt="feat 2 thick" src="https://github.com/user-attachments/assets/7074d8e4-c2af-4ee5-a94a-80edcede4995" />
 
 For Feature 1, I chose a width and length of 40 mm because the largest diameter of the motor was 28 mm, and I wanted to ensure there was enough room around the motor. I made Feature 2 the same 40 mm width so it would align with Feature 1. I chose a length of 55 mm for Feature 2 because making it too long would increase the stress and deflection.
