@@ -55,13 +55,13 @@ I solved the moment arm by subtracting the height of Feature 1 from the full len
 
 <img width="350" height="221" alt="Screenshot 2026-09-10 212546" src="https://github.com/user-attachments/assets/74839967-a024-48c3-a554-89acb81e09f9" />
 
-To solve for the minimum height, I set the allowable stress equal to the maximum stress to satisfy the stress requiremnt.
+To solve for the minimum height, I set the maximum bending stress equal to the allowable stress so the design would not exceed the allowable stress limit.
 
 ### Height from Deflection
 
 <img width="332" height="284" alt="Screenshot 2026-09-10 212617" src="https://github.com/user-attachments/assets/9b749d2f-2921-4f10-8f75-ff9e6f779130" />
 
-To solve for the  minimum height, I set the allowable deflection equal to the maximum deflection of 0.30mm to satisfy the delection requiremnt.
+To solve for the minimum height, I set the maximum deflection equal to the allowable deflection of 0.30 mm so the design would not exceed the allowable deflection limit.
 
 I then chose the larger height between the stress and deflection calculations because it was the minimum size that satisfied both the stress and deflection requirements.
 
