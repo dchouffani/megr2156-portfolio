@@ -96,7 +96,7 @@ I added a rib extending from the top edge of Feature 2 to the base of Feature 1 
 
 # Communicate
 
-## Isometric View 
+## Hand Sketched Isometric View 
 <img width="280" height="245" alt="Screenshot 2026-09-10 213208" src="https://github.com/user-attachments/assets/f28543f6-0fc4-40ba-9e8c-fac0c9c1de4e" />
 
 ## Final CAD Model
