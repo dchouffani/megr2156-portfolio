@@ -16,7 +16,7 @@ I selected ASTM A36 steel as the material for my bracket. I used a safety factor
 
 <img width="358" height="455" alt="Screenshot 2026-09-21 210114" src="https://github.com/user-attachments/assets/16b1aede-5d3f-4447-81b3-141d66ba1f3b" />
 
-<img width="359" height="482" alt="Screenshot 2026-09-21 210204" src="https://github.com/user-attachments/assets/30a27e83-82fe-478d-ba5b-69049f9e5398" />
+<img width="365" height="530" alt="Screenshot 2026-09-21 225742" src="https://github.com/user-attachments/assets/9aafec7a-fc38-4860-a4d0-6fbce34afea8" />
 
 <img width="359" height="486" alt="Screenshot 2026-09-21 210223" src="https://github.com/user-attachments/assets/158bbc97-3e38-46fd-a5c6-c0e1baedfe1f" />
 
@@ -59,6 +59,7 @@ I selected a width of 1 in to maintain consistency with the rest of the part. I 
 ## Communicate
 
 **Lessons Learned:**
+
 I learned how to determine dimensions using stress and deflection analyses and how to determine which value governs the design when selecting the final dimensions.
 
 **Governing Failure Mode:**  
