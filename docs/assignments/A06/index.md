@@ -69,6 +69,4 @@ I learned how to create tolerance fits and how to determine which analysis gover
 
 I spent approximately 4 hours creating my part on CAD and defining tolerances.
 
-[Download SolidWorks File](
-[Download A4 Motor Mount SolidWorks File]
-[Download A4 Motor Mount SolidWorks File]
+[Download SolidWorks File](blob:https://github.com/2cda7b5b-005c-487f-b777-12cd1a9b88e2)
