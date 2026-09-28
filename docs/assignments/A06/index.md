@@ -69,4 +69,4 @@ I learned how to create tolerance fits and how to determine which analysis gover
 
 I spent approximately 4 hours creating my part on CAD and defining tolerances.
 
-[Download SolidWorks File]((https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A06/a6.zip)
+[Download SolidWorks File](https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A06/a6.zip)
