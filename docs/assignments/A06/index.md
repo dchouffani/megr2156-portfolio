@@ -68,3 +68,7 @@ I used a looser tolerance for dimension “a” because the previous assignment 
 I learned how to create tolerance fits and how to determine which analysis governs the main dimensions of each feature.
 
 I spent approximately 4 hours creating my part on CAD and defining tolerances.
+
+[Download SolidWorks File](
+[Download A4 Motor Mount SolidWorks File]
+[Download A4 Motor Mount SolidWorks File]
