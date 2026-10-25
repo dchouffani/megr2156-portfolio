@@ -108,4 +108,4 @@ One mistake I made was applying fixed constraints to the entire bracket when onl
 
 I spent approximately 4 hours on this assignment.
 
-[Download CAD File]()
+[Download CAD File](https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A07/A7%20Bracket%20Design.SLDPRT)
