@@ -107,3 +107,5 @@ I learned how to use FEA to evaluate and improve my bracket design by using mesh
 One mistake I made was applying fixed constraints to the entire bracket when only the upper portion should have been fixed. I corrected this by drawing a horizontal line above the cylindrical portion and using the Split feature to separate the fixed region from the rest of the bracket.
 
 I spent approximately 4 hours on this assignment.
+
+[Download CAD File]()
