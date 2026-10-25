@@ -7,7 +7,7 @@ The objective of this assignment is to use Finite Element Analysis (FEA) to impr
 
 ### Design 1
 
-#### Course Mesh FEA
+#### Coarse Mesh FEA
 
 <img width="451" height="470" alt="ChatGPT Image Oct 25, 2026, 02_44_01 AM" src="https://github.com/user-attachments/assets/0844f00c-733b-40ad-a1b4-8dee90181232" />
 <img width="628" height="622" alt="ChatGPT Image Oct 25, 2026, 02_44_24 AM" src="https://github.com/user-attachments/assets/55d96316-332a-44af-bacb-738c0024383e" />
@@ -32,7 +32,7 @@ For Design 1, I used ASTM A36 Steel and fixed the upper portion of the bracket. 
 
 ### Design 2
 
-#### Course Mesh FEA
+#### Coarse Mesh FEA
 
 <img width="608" height="616" alt="ChatGPT Image Oct 25, 2026, 02_35_07 AM" src="https://github.com/user-attachments/assets/1a9e7bb0-eff0-40ab-b41e-e3bfa5fdda05" />
 <img width="623" height="734" alt="ChatGPT Image Oct 25, 2026, 02_35_21 AM" src="https://github.com/user-attachments/assets/e8d9761a-39ca-4e6e-a833-9a0ca7f95c53" />
@@ -58,7 +58,7 @@ For Design 2, I reduced the depth of the bracket. I used the same material, fixe
 
 ### Design 3
 
-#### Course Mesh FEA
+#### Coarse Mesh FEA
 
 <img width="631" height="653" alt="ChatGPT Image Oct 25, 2026, 02_39_22 AM" src="https://github.com/user-attachments/assets/c20734e3-b0cd-4a44-99b5-10207f0e957a" />
 <img width="625" height="631" alt="ChatGPT Image Oct 25, 2026, 02_39_29 AM" src="https://github.com/user-attachments/assets/f247def9-6e10-4bab-bcf8-05e912736dc3" />
