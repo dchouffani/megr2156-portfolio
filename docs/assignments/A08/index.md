@@ -50,4 +50,5 @@ I designed the gearbox housing with an overall width of 3.77 inches, a height of
 <img width="812" height="530" alt="Screenshot 2026-10-31 045454" src="https://github.com/user-attachments/assets/6b71e14a-711c-43e1-ad07-b79d2523f0c1" />
 <img width="662" height="615" alt="Screenshot 2026-10-31 035408" src="https://github.com/user-attachments/assets/7240ff09-5ddb-44a9-baff-16aac57d4722" />
 <img width="905" height="566" alt="Screenshot 2026-10-31 045413" src="https://github.com/user-attachments/assets/97f7dd95-3888-4448-ae01-9b7ed17658ec" />
+
 I downloaded the gears and journal bearings from McMaster-Carr.
