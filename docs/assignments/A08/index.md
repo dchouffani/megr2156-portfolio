@@ -52,3 +52,7 @@ I designed the gearbox housing with an overall width of 3.77 inches, a height of
 <img width="905" height="566" alt="Screenshot 2026-10-31 045413" src="https://github.com/user-attachments/assets/97f7dd95-3888-4448-ae01-9b7ed17658ec" />
 
 I downloaded the gears and journal bearings from McMaster-Carr.
+
+### Lessons Learned
+
+I learned how to design parts based on given criteria and specifications. I needed to reference the gear dimensions from McMaster-Carr to ensure that my gearbox housing had enough space to accommodate the gears. I also learned how to create an assembly in SolidWorks and use mates to position the components correctly. Initially, I had difficulty mating the bearings because they needed to be positioned at a specific distance from the housing wall along the shafts. Through this process, I learned how to use distance mates to properly position the bearings within the gearbox.
