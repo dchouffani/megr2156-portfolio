@@ -62,4 +62,4 @@ I learned how to design parts based on given criteria and specifications. I need
 
 This assignment took me approximately five hours to complete.
 
-[Download SolidWorks CAD Files](https://github.com/dchouffani/megr2156-portfolio/tree/main/docs/assignments/A08/Assem%20a8)
+[Download SolidWorks CAD Files](https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A08/Assem%20a8%20%282%29.zip)
