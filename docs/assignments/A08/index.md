@@ -62,4 +62,4 @@ I learned how to design parts based on given criteria and specifications. I need
 
 This assignment took me approximately five hours to complete.
 
-[Download CAD Files](https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A08/A8%20Gearbox%20Assembly.zip)
+[Download CAD Files](https://raw.githubusercontent.com/dchouffani/megr2156-portfolio/main/docs/assignments/A08/Assem%20a8.zip)
