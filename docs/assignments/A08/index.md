@@ -29,6 +29,9 @@ The objective of this assignment is to design a gearbox that can be assembled an
 
 I selected oil-embedded 841 bronze sleeve journal bearings from McMaster-Carr to support the input and output shafts. For the input shaft, I chose bearing 6391K111, which has an inside diameter of 0.126 inches, an outside diameter of 0.252 inches, and a length of 0.250 inches. For the output shaft, I chose bearing 6391K126, which has an inside diameter of 0.2505 inches, an outside diameter of 0.3145 inches, and a length of 0.250 inches. Both bearings are made of oil-embedded bronze, which provides lubrication and helps reduce friction and wear as the shafts rotate. I chose nuts and bolts to affix the different parts of the gearbox together.
 
+### Parametric Equations
+<img width="595" height="386" alt="Screenshot 2026-11-02 000403" src="https://github.com/user-attachments/assets/60fb2fbb-9f65-466b-aafb-ab89a4169d3b" />
+
 ## Decide
 ### Dimensions
 <img width="508" height="520" alt="Screenshot 2026-10-30 011124" src="https://github.com/user-attachments/assets/034bf9a7-403a-4b64-b37e-37b28548b418" />
