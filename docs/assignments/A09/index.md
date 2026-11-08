@@ -10,7 +10,7 @@ The objective of this assignment is to design a pulley system using engineering 
 
 <img width="345" height="512" alt="Screenshot 2026-11-07 220257" src="https://github.com/user-attachments/assets/088a13a4-bd8d-4d53-8ef7-8639697d11d2" />
 
-The tight side and loose side belt forces were calculated using the total belt tension and friction relationship, resulting in 8.68 lbf and 1.32 lbf, respectively. Using the normal stress equation, yield strength, and safety factor of 3, the minimum belt diameter was determined to be 0.2653 inches. The belt's outer circumference was calculated to be 19.95 inches, and a polyurethane round belt with a 5/16-inch diameter and 25-inch outer circumference was selected.
+The tight side and loose side belt forces were calculated using the total belt tension and friction relationship, resulting in 8.68 lbf and 1.32 lbf, respectively. Using the normal stress equation, yield strength, and safety factor of 3, the minimum belt diameter was determined to be 0.2653 inches. The belt's outer circumference was calculated to be 19.95 inches, and a polyurethane round belt with a 5/16-inch diameter and 25-inch outer circumference was selected from McMASTER-CARR.
 ### Shaft Design
 
 <img width="368" height="407" alt="Screenshot 2026-11-07 220327" src="https://github.com/user-attachments/assets/b416dd3d-0632-4efc-871f-b8c47f665cfa" />
