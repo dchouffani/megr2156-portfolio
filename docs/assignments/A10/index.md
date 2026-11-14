@@ -1,7 +1,8 @@
-# A10 – Lead Screw Translating System
+# A10 – Lead Screw Design
 
 ## Objective
 
+The objective of this assignment is to design a leadscrew system by determining the minimum leadscrew diameter, rotational speed range, and maximum torque. The assignment requires selecting an appropriate bronze nut and flange, designing a crosshead that meets the strength and deflection requirements, and comparing material costs. The assignment involves parametrically modeling and assembling the components in CAD, as well as detailing the engineering lessons learned.
 
 ## Analyze
 
