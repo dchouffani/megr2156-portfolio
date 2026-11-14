@@ -24,8 +24,13 @@ I calculated the minimum required height of the crosshead based on deflection us
 
 #### Multiview Sketch
 
+### Tabulating Costs
+
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
 ## Communicate
 
+### Parametric Modeling
+
+### Lessons Learned
