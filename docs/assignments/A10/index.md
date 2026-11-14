@@ -8,9 +8,9 @@ The objective of this assignment is to design a leadscrew system by determining 
 
 ### Leadscrew Diameter
 
-### Nut and Flange
+### Nut and Flange - Dina Chouffani
 
-### Crosshead
+### Crosshead - Dina Chouffani
 #### Strength Analysis
 <img width="343" height="495" alt="Screenshot 2026-11-13 230607" src="https://github.com/user-attachments/assets/638030d0-5f08-46a8-9ede-cc061bbed587" />
 
