@@ -49,9 +49,33 @@ I calculated the minimum required height of the crosshead based on deflection us
 |:---:|:---:|---|---:|---:|---|
 | 804T48 | 1 | 40 Series T-Slot Aluminum Framing, 80 mm × 40 mm, 3 m Long | $245.87 | $245.87 | [Grainger](https://www.grainger.com/search?searchQuery=804T48) |
 | 95120A592 | 2 | 932 Bearing Bronze ACME Flange Nut, 3/8"-12 RH | $111.78 | $223.56 | [McMaster-Carr](https://www.mcmaster.com/95120A592) |
-| 03199312 | 2 | Carbon Steel ACME Lead Screw, 3/8"-12 RH, 36" Long | $24.50 | $49.00 | [Exact Tool & Supply](https://exacttoolandsupply.com/products/03199312) |
-| | | | **Total Cost** | **$518.43** | |
+| 98935A817 | 2 | Carbon Steel ACME Lead Screw, 3/8"-12 RH, 36" Long | $10.15 | $20.30 | [McMaster-Carr](https://www.mcmaster.com/98935A817/) |
+| | | | **Total Cost** | **$489.73** | |
 ## Decide
+CAD Modeling
+
+Crosshead
+
+<img width="897" height="356" alt="image" src="https://github.com/user-attachments/assets/55a2db7d-3b89-44e4-88e3-75b3a4e6c1ba" />
+
+<img width="773" height="339" alt="image" src="https://github.com/user-attachments/assets/151b7c7c-25f7-45fa-9060-43f0be8bebd1" />
+
+<img width="475" height="378" alt="image" src="https://github.com/user-attachments/assets/59a2fd50-b7a1-4b46-a342-756413612613" />
+
+
+
+
+Flange Nut
+
+<img width="341" height="337" alt="image" src="https://github.com/user-attachments/assets/ecdbc616-5d9d-4c34-8cce-2f56049dfbf4" />
+
+Lead Screw
+
+<img width="989" height="522" alt="image" src="https://github.com/user-attachments/assets/b22bdea7-e9b1-49f3-a434-4675695bc287" />
+
+
+
+
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
 ## Communicate
