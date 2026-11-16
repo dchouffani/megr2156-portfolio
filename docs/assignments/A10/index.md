@@ -89,6 +89,7 @@ Assembly
 
 ### Lessons Learned
 
+Our group spent approximately 7 hours combined completing this assignment. Throughout the project, we learned how to apply engineering calculations to design a functional leadscrew system capable of supporting a 2 kN tensile load while maintaining a safety factor of 4. One important lesson we learned was how much the assumptions made during the design process can influence the final results. For example, when calculating the torque required to rotate the leadscrews, we had to consider whether the leadscrews and bronze nuts would be lubricated or unlubricated. This decision directly affects the coefficient of friction, which changes the required torque and could require an entirely different set of calculations based on the selected conditions. We also learned the importance of verifying that purchased components are compatible with one another, especially when selecting matching thread sizes and determining the dimensions needed for the crosshead mounting holes. Another challenge was translating our theoretical calculations into a practical CAD model while ensuring that the dimensions satisfied the strength and deflection requirements. Overall, this project helped us better understand the relationship between engineering analysis, material selection, component compatibility, and parametric modeling, while reinforcing the importance of communication and coordination when working as a team. Each team members name is next to the sections that they did.
 
 
 ### CAD Links
