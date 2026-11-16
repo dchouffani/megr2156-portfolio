@@ -51,7 +51,10 @@ I calculated the minimum required height of the crosshead based on deflection us
 | 95120A592 | 2 | 932 Bearing Bronze ACME Flange Nut, 3/8"-12 RH | $111.78 | $223.56 | [McMaster-Carr](https://www.mcmaster.com/95120A592) |
 | 98935A817 | 2 | Carbon Steel ACME Lead Screw, 3/8"-12 RH, 36" Long | $10.15 | $20.30 | [McMaster-Carr](https://www.mcmaster.com/98935A817/) |
 | | | | **Total Cost** | **$489.73** | |
+
 ## CAD Model - Nicholas Cornetta
+
+For the parametric modeling portion of this assignment, I used Creo Parametric to design the crosshead based on my group's strength and deflection calculations. I created the crosshead using 6061-T6 aluminum with dimensions of 360 mm in length, 100 mm in width, and 30 mm in thickness. I then added the leadscrew holes, spacing them 300 mm apart to align with the leadscrew system. One challenge I encountered was determining the correct hole dimensions to ensure the selected leadscrews and bronze flange nuts would fit properly. I learned how important it is to reference the actual dimensions of purchased components when designing a part in CAD, since incorrect dimensions can create problems during assembly. This assignment also helped me better understand how engineering calculations influence the dimensions and features of a part and how parametric modeling allows changes to be made efficiently throughout the design process.
 
 Crosshead
 
@@ -77,13 +80,20 @@ Assembly
 
 <img width="798" height="521" alt="image" src="https://github.com/user-attachments/assets/beaf2e97-573f-4aa6-b6c1-26e7e24f77a4" />
 
+<img width="426" height="525" alt="image" src="https://github.com/user-attachments/assets/a0b6151a-68c8-4cd2-aae5-13c08041fb1f" />
+
+<img width="665" height="499" alt="image" src="https://github.com/user-attachments/assets/6d640060-442e-4218-b94d-80b7c537bed2" />
 
 
 
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
-
-### Parametric Modeling
 
 ### Lessons Learned
+
+
+
+### CAD Links
+Crosshead: https://drive.google.com/file/d/1bq0rhZXaWHBxbweBtz2RrmGjUecE42SP/view?usp=sharing
+Aluminium Frame: https://drive.google.com/file/d/13mhg8UuLy7-oSyzXsZ8ZKiqZM5FPr0Fl/view?usp=sharing
+Flange Nut: https://drive.google.com/file/d/1EfdXIEs1OBQqaJKWrXGXwagvW3R4AfEF/view?usp=sharing
+Lead Screw: https://drive.google.com/file/d/1x5t3TtvjypjKoXop3mC6aSoWEX3YOpd1/view?usp=sharing
+Assembly: https://drive.google.com/file/d/1CqJOj0KF37N2bUD-ZTlEuXUCZpqLVyjo/view?usp=sharing
