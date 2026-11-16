@@ -43,7 +43,7 @@ I calculated the minimum required height of the crosshead based on deflection us
 #### Multiview Sketch
 <img width="382" height="262" alt="image" src="https://github.com/user-attachments/assets/239162d1-eb84-4510-a931-1ac0715fbd85" />
 
-### Tabulating Costs
+### Tabulating Costs - Nicholas Cornetta
 
 | Item # | Quantity | Name | Cost/Item | Cost | Purchase Link |
 |:---:|:---:|---|---:|---:|---|
@@ -51,8 +51,7 @@ I calculated the minimum required height of the crosshead based on deflection us
 | 95120A592 | 2 | 932 Bearing Bronze ACME Flange Nut, 3/8"-12 RH | $111.78 | $223.56 | [McMaster-Carr](https://www.mcmaster.com/95120A592) |
 | 98935A817 | 2 | Carbon Steel ACME Lead Screw, 3/8"-12 RH, 36" Long | $10.15 | $20.30 | [McMaster-Carr](https://www.mcmaster.com/98935A817/) |
 | | | | **Total Cost** | **$489.73** | |
-## Decide
-CAD Modeling
+## CAD Model - Nicholas Cornetta
 
 Crosshead
 
@@ -62,8 +61,9 @@ Crosshead
 
 <img width="475" height="378" alt="image" src="https://github.com/user-attachments/assets/59a2fd50-b7a1-4b46-a342-756413612613" />
 
+Frame
 
-
+<img width="869" height="332" alt="image" src="https://github.com/user-attachments/assets/f3c8ee34-19aa-43ad-a13f-1bd75b93dd58" />
 
 Flange Nut
 
@@ -72,6 +72,10 @@ Flange Nut
 Lead Screw
 
 <img width="989" height="522" alt="image" src="https://github.com/user-attachments/assets/b22bdea7-e9b1-49f3-a434-4675695bc287" />
+
+Assembly
+
+<img width="798" height="521" alt="image" src="https://github.com/user-attachments/assets/beaf2e97-573f-4aa6-b6c1-26e7e24f77a4" />
 
 
 
