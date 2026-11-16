@@ -47,10 +47,11 @@ I calculated the minimum required height of the crosshead based on deflection us
 
 | Item # | Quantity | Name | Cost/Item | Cost | Purchase Link |
 |:---:|:---:|---|---:|---:|---|
-| 804T48 | 1 | T-Slot Framing System: Rectangle, 40 Series, Smooth, Double, 3 m Long, 80 mm × 40 mm, 6 Slots | $245.87 | $245.87 | [Grainger](https://www.grainger.com/search?searchQuery=804T48) |
-| 95120A119 | 2 | 932 Bearing Bronze Acme Flange Nut | $138.20 | $276.40 | [McMaster-Carr](https://www.mcmaster.com/95120A119) |
-| 98935A914 | 2 | Carbon Steel Acme Lead Screw | $10.29 | $20.58 | [McMaster-Carr](https://www.mcmaster.com/98935A914) |
-| | | | **Total Cost** | **$542.85** | |
+| 804T48 | 1 | 40 Series T-Slot Aluminum Framing, 80 mm × 40 mm, 3 m Long | $245.87 | $245.87 | [Grainger](https://www.grainger.com/search?searchQuery=804T48) |
+| 95120A592 | 2 | 932 Bearing Bronze ACME Flange Nut, 3/8"-12 RH | TBD | TBD | [McMaster-Carr](https://www.mcmaster.com/95120A592) |
+| 03199312 | 2 | Carbon Steel ACME Lead Screw, 3/8"-12 RH, 36" Long | $24.50 | $49.00 | [Exact Tool & Supply](https://exacttoolandsupply.com/products/03199312) |
+| | | | **Known Subtotal** | **$294.87** | |
+| | | | **Total Cost** | **TBD** | |
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
