@@ -46,6 +46,7 @@ I calculated the minimum required height of the crosshead based on deflection us
 ### Tabulating Costs
 
 | Item # | Quantity | Name | Cost/Item | Cost | Purchase Link |
+|:---:|:---:|---|---:|---:|---|
 | 804T48 | 1 | T-Slot Framing System: Rectangle, 40 Series, Smooth, Double, 3 m Long, 80 mm × 40 mm, 6 Slots | $245.87 | $245.87 | [Grainger](https://www.grainger.com/search?searchQuery=804T48) |
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
