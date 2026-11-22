@@ -4,7 +4,7 @@
 
 
 ## Analyze
-### Motor Selection and Attachments
+### Motor Selection and Attachments - Dina Chouffani
 
 <img width="353" height="240" alt="Screenshot 2026-11-22 134010" src="https://github.com/user-attachments/assets/3423ce09-2e0c-4816-8be7-b70c03ebcd67" />
 
