@@ -26,9 +26,11 @@ I selected a 13 mm inner diameter to provide clearance for the 12.7 mm motor sha
 
 ### Analyze and design a frame
 
-<img width="344" height="475" alt="Screenshot 2026-11-22 225014" src="https://github.com/user-attachments/assets/0e0e73e2-9044-4233-8b4b-3546a78ceb5e" />
+<img width="341" height="437" alt="Screenshot 2026-11-22 232954" src="https://github.com/user-attachments/assets/64a47716-326e-4792-a434-972ed4530aeb" />
 
-I analyzed the motor torque acting on the top frame and calculated a reaction force of 62.77 N at each end. Using a safety factor of 4, I determined a design force of 251.08 N and a bolt shear stress of 2.497 MPa. I selected the Grainger 55MT81 wide gusseted inside-corner bracket with two M8 class 4.6 steel bolts per connection. The calculated bolt shear stress was below the shear yield strength of 138.48 MPa, indicating that the bolts are sufficient for the assumed loading.
+<img width="724" height="298" alt="Screenshot 2026-11-22 232552" src="https://github.com/user-attachments/assets/5f517466-afa9-4a79-bc7a-6d153f37aedd" />
+
+I analyzed the motor torque acting on the top frame and calculated a reaction force of 62.77 N at each end. Using a safety factor of 4, I determined a design force of 251.08 N and a bolt shear stress of 1.25 MPa. I selected the Grainger 5JRP7 inside-corner bracket with M8 class 4.6 steel bolts. The calculated bolt shear stress was below the allowable shear stress of 34.62 MPa, indicating that the bolts are sufficient for the assumed loading.
 
 ### Bill of Materials and Labor Costs
 
