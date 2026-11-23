@@ -37,3 +37,5 @@ I analyzed the motor torque acting on the top frame and calculated a reaction fo
 ## Communicate
 
 ### Lessons Learned
+
+We learned how to select the right motor using torque and speed requirements from the leadscrew design and how to design a motor mount bracket to attach the motor to the tester frame while maintaining precise alignment with the leadscrew, accommodating service access for assembly and maintenance, and withstanding operational torque and reaction forces without excessive deflection. We also learned how to select and design a coupler using shear stress torsion analysis and how to select proper connectors for T-slot framing by analyzing the twist caused by the motors. Additionally, we learned how to use FEA to verify that the top of the frame provides enough strength to withstand the leadscrew load and torque. Finally, we learned how to design a mounting bearing that allows the end of the leadscrew to rotate using an RC3 fit class and attaches to the bottom of the frame.
