@@ -29,7 +29,11 @@ I selected a 13 mm inner diameter to provide clearance for the 12.7 mm motor sha
 
 I analyzed the motor torque acting on the top frame and calculated a reaction force of 62.77 N at each end. Using a safety factor of 4, I determined a design force of 251.08 N and a bolt shear stress of 2.497 MPa. I selected the Grainger 55MT81 wide gusseted inside-corner bracket with two M8 class 4.6 steel bolts per connection. The calculated bolt shear stress was below the shear yield strength of 138.48 MPa, indicating that the bolts are sufficient for the assumed loading.
 
+### Bill of Materials and Labor Costs
+
 ## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+### Design Floating Bearing Mount
 
 ## Communicate
+
+### Lessons Learned
