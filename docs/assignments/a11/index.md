@@ -2,6 +2,7 @@
 
 ## Objective
 
+The objective of this assignment is to select a motor, design motor mounts, and select or design a coupler for the tensile tester. The assignment also involves designing a frame to support the crosshead and tensile load, analyzing and designing clamps, creating a complete CAD model, and developing a bill of materials with engineering costs. Additionally, the assignment requires documenting any mistakes made throughout the design process, recording the actual time spent completing the project from start to finish, and including a Lessons Learned section.
 
 ## Analyze
 ### Motor Selection and Attachments - Dina Chouffani
@@ -21,6 +22,12 @@ I calculated the reaction force at each mounting bolt and used bearing stress to
 <img width="338" height="485" alt="Screenshot 2026-11-22 175347" src="https://github.com/user-attachments/assets/47a3384f-40cb-4b95-849d-baa3610aa1fd" />
 
 I selected a 13 mm inner diameter to provide clearance for the 12.7 mm motor shaft. I calculated an allowable shear stress of 34.76 MPa and used torsional shear stress to determine a minimum outer diameter of 15.23 mm and a minimum wall thickness of 1.11 mm.
+
+### Analyze and design a frame
+
+<img width="344" height="475" alt="Screenshot 2026-11-22 225014" src="https://github.com/user-attachments/assets/0e0e73e2-9044-4233-8b4b-3546a78ceb5e" />
+
+I analyzed the motor torque acting on the top frame and calculated a reaction force of 62.77 N at each end. Using a safety factor of 4, I determined a design force of 251.08 N and a bolt shear stress of 2.497 MPa. I selected the Grainger 55MT81 wide gusseted inside-corner bracket with two M8 class 4.6 steel bolts per connection. The calculated bolt shear stress was below the shear yield strength of 138.48 MPa, indicating that the bolts are sufficient for the assumed loading.
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
