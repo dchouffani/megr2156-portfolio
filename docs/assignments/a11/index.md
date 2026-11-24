@@ -38,10 +38,48 @@ I analyzed the motor torque acting on the top frame and calculated a reaction fo
 ## Frame Analysis and Design
 Prior to modifying the previous design, I needed to evaluate the allowable stress acting on the frame from motor torque. To achieve this, I outlined the given parameters and variables, then sketched a free-body diagram (FBD) mapping out the combined forces on the structure. My assumptions specified that the assembly would use M5 screws sourced from Grainger. Based on a shear stress analysis, the acceptable stress limits were determined to range from 50.93 MPa to 278.07 MPa.
 
-## Frame FEA
-### Design Floating Bearing Mount
 
-## Communicate
+<img width="3023" height="1192" alt="IMG_0899" src="https://github.com/user-attachments/assets/298e9056-5f8f-46fa-95e7-cf7218a171cf" />
+
+
+## Frame FEA
+
+Prior to initiating the simulation, I attached the wide corner brackets from Grainger to the frame, leaving out the individual screws because modeling each fastener was overly tedious. By applying a 2 kN load to the upper crossbar and setting fixed constraints on the lower legs, I executed a three-step mesh study.
+
+Although the deflection values converged successfully, the stress levels failed to converge and vastly exceeded the maximum allowable threshold. The exceptionally high stress resulted from the missing fasteners, whereas the convergence difficulties were triggered by the bracket's sharp internal corners. We could resolve this by incorporating corner fillets or adding a central reinforcement web to the bracket. As another option we could weld the frame assembly together using a TIG welding procedure or a MIG setup equipped with an aluminum spool torch.
+
+<img width="539" height="353" alt="image" src="https://github.com/user-attachments/assets/416a0403-25c4-44f4-ac3d-31fff27126c4" />
+
+
+<img width="526" height="356" alt="image" src="https://github.com/user-attachments/assets/ec95b312-3594-4c38-9bdc-09c2d2e7ed30" />
+
+
+<img width="3021" height="2569" alt="IMG_0897" src="https://github.com/user-attachments/assets/0e1b0ead-9ed7-4e6e-a445-af512be51d26" />
+
+
+
+### Design Floating Bearing Mount
+For the bearing mount design requiring an RC3 fit, I consulted the Machinery's Handbook. By referencing Table 8a on page 654, I established the known outer diameter and required tolerances. Afterward, I sketched a free-body diagram and applied torque analysis equations to calculate the appropriate inner wall thickness and diameter.
+
+<img width="3021" height="1386" alt="IMG_0898" src="https://github.com/user-attachments/assets/7deb4ca3-da70-4d4f-949e-55c8ae074760" />
+
+
+<img width="284" height="279" alt="image" src="https://github.com/user-attachments/assets/531033ca-a4f9-40a6-9c55-2c1e27f492ff" />
+
+
+<img width="352" height="256" alt="image" src="https://github.com/user-attachments/assets/ebdd1589-c109-404b-a44b-299548e85669" />
+
+
+## Bill of Materials
+
+
+
+## Final Cost
+Following the cost tabulation and finite element analysis (FEA), I finalized the design and constructed the tensile tester. To mitigate high stress concentrations and improve structural rigidity, I integrated wide brackets and hammer nuts at the corners, while also building additional support legs from leftover T-slot framing to ensure stability during loading.
+
+<img width="266" height="432" alt="image" src="https://github.com/user-attachments/assets/f702a44f-a2d3-43c0-a23e-f087cc7b10b8" />
+
+
 
 ### Lessons Learned
 
