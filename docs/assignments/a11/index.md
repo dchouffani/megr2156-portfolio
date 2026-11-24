@@ -72,9 +72,27 @@ For the bearing mount design requiring an RC3 fit, I consulted the Machinery's H
 
 ## Bill of Materials
 
+| Item # | Quantity | Name | Cost/Item | Cost | Purchase Link |
+|:---:|:---:|---|---:|---:|---|
+| 804T48 | 1 | 40 Series T-Slot Aluminum Framing, 80 mm × 40 mm, 3 m Long | $245.87 | $245.87 | [Grainger](https://www.grainger.com/search?searchQuery=804T48) |
+| 95120A592 | 2 | 932 Bearing Bronze ACME Flange Nut, 3/8"-12 RH | $111.78 | $223.56 | [McMaster-Carr](https://www.mcmaster.com/95120A592) |
+| 98935A817 | 2 | Carbon Steel ACME Lead Screw, 3/8"-12 RH, 36" Long | $10.15 | $20.30 | [McMaster-Carr](https://www.mcmaster.com/98935A817/) |
+| 3333_0 | 2 | NEMA 23 Stepper Motor | $72.00 | $144.00 | [Phidgets](https://www.phidgets.com/?prodid=352#Tab_Downloads) |
+| 5JRU7 | 6 | Wide Inside-Corner Bracket | $10.92 | $65.52 | [Grainger](https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Wide-5JRU7) |
+| 55MT26 | 24 | Hammer Nut | $3.50 | $21.00 | [Grainger](https://www.grainger.com/product/FATH-INC-Hammer-Nut-M5-Size-55MT26) |
+| 3613N15 | 2 | Set Screw Shaft Coupling | $74.49 | $148.98 | [McMaster-Carr](https://www.mcmaster.com/3613N15/) |
+| | | | **Total Cost** | **$869.23** | |
 
 
-## Final Cost
+## Labor Cost
+| Person | Hours Worked | Cost/Hour | Cost |
+|---|:---:|:---:|---:|
+| All Members | 16 hrs | $35/hr | $560 |
+
+## Total Cost
+1,429.23
+
+## Final Design
 Following the cost tabulation and finite element analysis (FEA), I finalized the design and constructed the tensile tester. To mitigate high stress concentrations and improve structural rigidity, I integrated wide brackets and hammer nuts at the corners, while also building additional support legs from leftover T-slot framing to ensure stability during loading.
 
 <img width="266" height="432" alt="image" src="https://github.com/user-attachments/assets/f702a44f-a2d3-43c0-a23e-f087cc7b10b8" />
