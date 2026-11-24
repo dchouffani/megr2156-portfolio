@@ -34,7 +34,11 @@ I analyzed the motor torque acting on the top frame and calculated a reaction fo
 
 ### Bill of Materials and Labor Costs
 
-## Decide
+
+## Frame Analysis and Design
+Prior to modifying the previous design, I needed to evaluate the allowable stress acting on the frame from motor torque. To achieve this, I outlined the given parameters and variables, then sketched a free-body diagram (FBD) mapping out the combined forces on the structure. My assumptions specified that the assembly would use M5 screws sourced from Grainger. Based on a shear stress analysis, the acceptable stress limits were determined to range from 50.93 MPa to 278.07 MPa.
+
+## Frame FEA
 ### Design Floating Bearing Mount
 
 ## Communicate
