@@ -5,7 +5,7 @@
 The objective of this assignment is to select a motor, design motor mounts, and select or design a coupler for the tensile tester. The assignment also involves designing a frame to support the crosshead and tensile load, analyzing and designing clamps, creating a complete CAD model, and developing a bill of materials with engineering costs. Additionally, the assignment requires documenting any mistakes made throughout the design process, recording the actual time spent completing the project from start to finish, and including a Lessons Learned section.
 
 ## Analyze
-### Motor Selection and Attachments - Dina Chouffani
+### Motor Selection and Attachments - Dina Chouffani and Taylor McHone
 
 <img width="353" height="240" alt="Screenshot 2026-11-22 134010" src="https://github.com/user-attachments/assets/3423ce09-2e0c-4816-8be7-b70c03ebcd67" />
 <img width="745" height="528" alt="Screenshot 2026-11-22 231914" src="https://github.com/user-attachments/assets/4486225a-90af-4d50-8ae1-974ad0dab4cf" />
@@ -32,10 +32,8 @@ I selected a 13 mm inner diameter to provide clearance for the 12.7 mm motor sha
 
 I analyzed the motor torque acting on the top frame and calculated a reaction force of 62.77 N at each end. Using a safety factor of 4, I determined a design force of 251.08 N and a bolt shear stress of 1.25 MPa. I selected the Grainger 5JRP7 inside-corner bracket with M8 class 4.6 steel bolts. The calculated bolt shear stress was below the allowable shear stress of 34.62 MPa, indicating that the bolts are sufficient for the assumed loading.
 
-### Bill of Materials and Labor Costs
 
-
-## Frame Analysis and Design
+## Frame Analysis and Design - Nick Cornetta
 Prior to modifying the previous design, I needed to evaluate the allowable stress acting on the frame from motor torque. To achieve this, I outlined the given parameters and variables, then sketched a free-body diagram (FBD) mapping out the combined forces on the structure. My assumptions specified that the assembly would use M5 screws sourced from Grainger. Based on a shear stress analysis, the acceptable stress limits were determined to range from 50.93 MPa to 278.07 MPa.
 
 
